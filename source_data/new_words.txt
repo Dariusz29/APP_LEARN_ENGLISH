@@ -92,3 +92,5 @@ stick = trzymac, wsadzic
 vain = prozny, daremny
 cab = taksowka, kabina,taxi
 conttraction  = skurcz, spadek
+martial = walka
+martial arts = sztuki walki

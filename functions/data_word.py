@@ -1,11 +1,11 @@
-word_sourse = open("words_tutlo.txt", "r")
-word_sourse_ = open("new_words.txt", "r")
-phases_sourse = open("new_phases.txt", "r")
-word_in_eng = open('word_in_eng.txt',"w")
-word_answer = open('word_answer.txt','w')
-phases_in_eng = open('phases_in_eng.txt','w')
-phases_answer = open('phases_answer.txt', 'w')
-
+word_sourse = open("source_data\\words_tutlo.txt", "r")
+word_sourse_ = open("source_data\\new_words.txt", "r")
+phases_sourse = open("source_data\\new_phases.txt", "r")
+word_in_eng = open('data_to_learn\\word_in_eng.txt',"w")
+word_answer = open('data_to_learn\\word_answer.txt','w')
+phases_in_eng = open('data_to_learn\\phases_in_eng.txt','w')
+phases_answer = open('data_to_learn\\phases_answer.txt', 'w')
+#C:\Users\dariu\Desktop\my_projects\App_learn_words\source_data\words_tutlo.txt
 word_eng = []
 word_ans = []
 phases_eng = []
