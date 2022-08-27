@@ -1,4 +1,4 @@
-I have a ideas to create a Python scrypt to learn words in english.
+I have a ideas to create project of app to learn words in english in Python.
 
 Steps in scrypt:
 - read a files word.doc 
