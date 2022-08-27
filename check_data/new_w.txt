@@ -1,0 +1,3024 @@
+ obejmowac, objac, zawierac
+ "=" encompass 
+ przechowywanie, magazynowac, skladowane, pamiec
+ "=" storage 
+ infrastruktura, zaplecze
+ "=" infrastructure 
+ sies, wspopraca, polaczenie
+ "=" networking 
+ przedsiebiorstwo, przeciebiorczosc, firma, korporacja
+ "=" enterprise 
+ obwodowy, peryferyjny
+ "=" peripheral 
+ metodologii, metody, metodyki
+ "=" methodologies 
+ domena, dziedzina, sferze
+ "=" domain 
+ ukuc, wymyslic
+ "=" coin 
+ zaleta, przewaga, korzysc, plus, atut
+ "=" advantage 
+ stopic, topic, rozpuscic
+ "=" melt 
+ gotowac, zagotowac, wrzec
+ "=" boil 
+ odparowac, wyparowac
+ "=" evaporate 
+ niezalesny, samodzielny
+ "=" independent 
+ narkoman
+ "=" addict 
+ uzalezniony
+ "=" addicted 
+ uzaleznienie
+ "=" addiction 
+ ledwo, trudno 
+ "=" hardly 
+ czucy, kochajacy
+ "=" affectionate 
+ mruczy, mruczenie
+ "=" purring 
+ poglaskac
+ "=" stroke 
+ zwijac sie, kulic sie, zawinac sie
+ "=" curl up 
+ dlugie
+ "=" longish 
+ smigac
+ "=" whizz 
+ sliski 
+ "=" slippery 
+ maszyna do szycia
+ "=" sewing machine 
+ zmiana, przebudowa, przerobka 
+ "=" alteration 
+ przypuszczam, ze..., chyba, przypuscmy, ze...
+ "=" suppose 
+ morderca, zabojca
+ "=" murderer 
+ skladnik, element, substancja
+ "=" ingredient 
+ odeszly, zmarly
+ "=" departed 
+ odprawy
+ "=" boarding 
+ opzniony, spzniony
+ "=" delayed 
+ zmiana bramki
+ "=" gate change 
+ anulowany
+ "=" cancelled 
+ ostatnie wezwanie
+ "=" final call 
+ wynagrodzenie
+ "=" rewarding 
+ wymagajacy
+ "=" demanding 
+ inspirujacy
+ "=" inspiring 
+ wyczerpujacy 
+ "=" exhausting 
+ odpowiedzialny za...
+ "=" responsible for 
+ odpowiedzialny za ..., dowodzi
+ "=" in charge of 
+ radzic sobie z, poradzic sobie z 
+ "=" deal with 
+ zarzadzac, kierowac, prowadzic
+ "=" manage 
+ wroka, bajka, czarodziejka
+ "=" fairy 
+ denerwujacy, drazliwy, wkurzyc, wkurzac
+ "=" annoy 
+ wydawac sie, widac, wygladac
+ "=" seem 
+ inaczej, w przeciwnym razie 
+ "=" otherwise 
+ rzadko
+ "=" rarely 
+ rzadko, not often
+ "=" seldom 
+ frequently
+ "=" often 
+ most of the time
+ "=" usually 
+ occasionally
+ "=" sometimes 
+ almost never
+ "=" hardly ever 
+ sometimes but not often
+ "=" from time to time 
+ usually
+ "=" normally 
+ not arrive on time
+ "=" be late 
+ any game in which you move objects around on a special board
+ "=" board game 
+ worried and not able to relax
+ "=" stressed 
+ a short sleep
+ "=" nap 
+ zgodnie, zgodny
+ "=" according 
+ posiedziec, przebywac, spotykac sie
+ "=" hang out 
+ pomocniczy, dodatkowy
+ "=" auxiliary 
+ nacisk, podkreslenia
+ "=" emphasis 
+ wkurzajace, irytujace, uciazliwy	
+ "=" annoying 
+ chyba, ze..., jezeli nie
+ "=" unless 
+ odpowiednio, prawidlowo
+ "=" properly 
+ wynagrodzenie, placa
+ "=" wage 
+ powiazany
+ "=" related 
+ wielblad 
+ "=" camel(kanol) 
+ pluc
+ "=" spit 
+ urazony, obrazony, odrzucony
+ "=" resentful 
+ surowy, ostry, szorstki, nie mily
+ "=" harsh 
+ liczba, ilosc, sztuk, naklad
+ "=" quantity 
+ kleszcz, tykac, znaczenie
+ "=" tick 
+ zasieg, promien, obszar
+ "=" radius(rejdious) 
+ adnotacja wieloliniowa
+ "=" multiline annotation 
+ towarzyszyc, oprowadzic, dolaczyc
+ "=" accompany 
+ wlasciwosci
+ "=" properties 
+ shortcut - skrot
+ "=" abbreviation 
+ odnosci sie, dolaczyc, odniesc sie
+ "=" refer 
+ mieszkaniowy
+ "=" residential 
+ staly, stabilny, ciagly
+ "=" steady 
+ cisany, napiety, obcisly, szczelny
+ "=" tight 
+ uciazliwy, klopotliwy, nieporeczy
+ "=" cumbersome 
+ roczny koszt
+ "=" annual cost 
+ pozyczac, uzyczac
+ "=" lend 
+ udowadnic, okazac, dowiesc
+ "=" prove(pruw) 
+ madrze, rozsadnie, roztropnie
+ "=" wisely 
+ trzymac sie, postrzegac
+ "=" stick to 
+ gatunek
+ "=" genre 
+ wplywac, wplyw, skutek, uderzenie, znaczenie, dzialanie
+ "=" impact 
+ przesunsc, umowic, przeniesc, przekladac, zmienic termin
+ "=" reschedule 
+ otrzymac, odbierac, uzyskac
+ "=" receive 
+ zaplacic, kupic, zapewnic
+ "=" afford 
+ zwatpic, watpic 
+ "=" doubt 
+ aktywnie, czynnie, intesywnie
+ "=" actively 
+ krewni, bliscy
+ "=" relatives(relatiws) 
+ zbadac, badac, przeanalizowac 
+ "=" investigate 
+ wymiar, rozmiar
+ "=" dimension 
+ przekroczenie, powyzej
+ "=" exceeding 
+ granica, pulap
+ "=" threshold 
+ dlatego , zatem, zwiazku z tym
+ "=" therefore 
+ uzyskac, uzyskiwac, zdobyc, pozyskac, otrzymac
+ "=" obtain 
+ podczas gdy, tymczasem
+ "=" whereas 
+ zamierzac, zamierzyc ( i intend to achieve my very goals at the year)
+ "=" intend 
+ do upadlego, az padniesz
+ "=" till you drop 
+ zlodziej
+ "=" shoplifter 
+ polaczenie, kombinacja
+ "=" combination 
+ korzystny
+ "=" advantageous 
+ zaleta, korzysc
+ "=" advantage 
+ nadmiernie, zbyt, przesadnie
+ "=" excessively 
+ szal, szalenstwo
+ "=" spree 
+ osmirnica
+ "=" octopus 
+ ostryga
+ "=" ostery 
+ losos
+ "=" salmon 
+ przegrzebka
+ "=" scallop 
+ krewetki
+ "=" prawns 
+ homar
+ "=" lobster 
+ skrzypce
+ "=" fiddle 
+ w siodmym niebie
+ "=" clound nine 
+ krotko, pokrotce, zwizle, pobieznie
+ "=" briefly 
+ uklad, aranzacja, umowa,ustalenie
+ "=" arrangement 
+ zgoda, pozwolenie, uprawnienie
+ "=" permission 
+ chudszy
+ "=" thinner 
+ transmisja, audycja, przekaz
+ "=" broadcast 
+ niegrzeczny, nieprzyzwoity, niesforny
+ "=" naughty (nadi)
+ glosno, donosnie, hucznie
+ "=" loudly 
+ wystawa, wystawiac, eksponat, wykazywac
+ "=" exhibit 
+ artefakt
+ "=" artefact 
+ starosytnosc, antyk
+ "=" antiquity 
+ relikt
+ "=" relic 
+ postument, cokl
+ "=" plinth 
+ uchwyt, montac, zamontowac, montowac, mocowac
+ "=" mount 
+ alkowa, wneka, nisza
+ "=" alcove 
+ tulow,tors, korpus, piers
+ "=" torso 
+ rzezba, pomnik, figura
+ "=" sculpture 
+ popiersie, biust
+ "=" bust(bast) 
+ mazaika
+ "=" mosaic 
+ misternie, starannie, bogato, kunsztownie
+ "=" elaborately 
+ czaszka, leb, glowa
+ "=" skull 
+ rywal
+ "=" rival 
+ wydobywac, wyodrebniac
+ "=" extract 
+ sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
+ "=" oppose 
+  dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
+ "=" figure out 
+ ogranicznik, separator
+ "=" delimiter 
+ dostosowac, wyrownac, dopasowac
+ "=" align(alain) 
+ przestawiac, przystroic, wyregulowac
+ "=" realign 
+ zlaczyc
+ "=" concatenate 
+ unnessesery - zbedny, nadmierny, niepotrzebny
+ "=" redundant 
+ nieprawidlowo wyrownane rzedy
+ "=" misaligned rows 
+ connect  join  important - wazny
+ "=" merge 
+ ostrzegac, ostrzec, uprzedzic
+ "=" append 
+ rok zakonczenia
+ "=" valid 
+ czas trwania
+ "=" warn 
+ keep  uplynsc, minal
+ "=" year of completion 
+ term - kadencja, posade
+ "=" duration 
+ straight (strejt)- prosty, gladki, jasny, czysty
+ "=" retain 
+ poniesc, wychowac, pozyskac
+ "=" elapse 
+  dalej, kolejny, dodatkowy, nastepnie
+ "=" tenure  
+ to nie tak daleko
+ "=" plain  
+ jowisz
+ "=" raise 
+ oszywiscie, najwyrazniej
+ "=" further  
+ ewidentny, oszywisty, sjasny, widoczny
+ "=" that's not that far 
+ dwutlenek wegla
+ "=" jupiter 
+ change- zmienic, skorygowac, poprawic
+ "=" obviously(obwesli) 
+ lista zyczen, listazakupowa
+ "=" obvious 
+ rozliczenie, rachunek
+ "=" carbon dioxide(daioxaid) 
+ wozek sklepowy, woz
+ "=" revise  
+ kasa
+ "=" wishlist 
+ produkt chwilowo niedosteny
+ "=" billing 
+ przesylka, wysylka, dostawa, transport
+ "=" cart 
+ na magazynie, na stanie
+ "=" checkout 
+ towar, rzeczy, towary
+ "=" out of stock 
+ musze, chce
+ "=" shipment 
+  zrobic, bedziesz 
+ "=" in stock 
+ chce, chcesz
+ "=" goods 
+end  drogi
+ "=" gotta 
+ rozboj w bialy dzien
+ "=" gonna 
+ zaplacic najwyzsza cene
+ "=" wanna 
+ rozbic bank
+ "=" high
+ wskazowka, trop, slad
+ "=" pricey 
+ nieodlaczny, wrodony
+ "=" daylight robbery 
+ porzadkowy
+ "=" pay top dolar 
+ dostosowac, dopasowac
+ "=" break the bank 
+ uwolnic, zwolnic
+ "=" clue 
+ przesunac, przeniesc, zmienic, zmiana, dyzur
+ "=" inherent 
+ odchylenie, odstepstwo
+ "=" ordinal 
+ wzgledny, stosunkowy
+ "=" adjust 
+ rozciagnac, rozprostowac
+ "=" release 
+ oznaczyc, okreslenia
+ "=" shift 
+ rozwazyc, uwazac, uznac
+ "=" diviation 
+ przypisac
+ "=" relative 
+  zakladac, przyjsc, ponosic
+ "=" stretch 
+ probka, sample, probkowac, skosztowac
+ "=" denote 
+ okragly, kolowy, kolisty
+ "=" consider 
+ wprowadzic, przedstawic, przedsatwic
+ "=" assign 
+ oszacowac, szacunek, ocenic
+ "=" assume 
+ progniza, przewidywac, prognostyk
+ "=" sample 
+ wymagac, rzadac, popyt, wymaganie
+ "=" circular 
+ dotyczyc, powiazac, wiazac, nawiazac
+ "=" introduce 
+ krzywa sinisoidalna
+ "=" estimate 
+ degradowac, ponisac, pogarszac
+ "=" forecast 
+ rownomiernie, rowno
+ "=" demand 
+ wyraå¾nie, jednoznacznie, jawnie, wprost
+ "=" relate 
+ kwasny
+ "=" sine curve 
+ dlug
+ "=" degrade 
+ hipoteka, kredyt hipoteczny
+ "=" equally 
+ subtelny, delikatny
+ "=" explicitly 
+ kciuk
+ "=" sour 
+ pchowac, zakopac, chowac
+ "=" debt 
+ miecz, szpada, ostrze
+ "=" mortgage 
+ zlosliwy, psotny, figlarny, szkodliwy
+ "=" subtle 
+ harmonogram, plan, zaplanowac, umowic
+ "=" thumb 
+ uosobienie, typowy przyklad
+ "=" bury 
+ woman films(romance, very emontional fims)
+ "=" sword 
+ film for man ( about two good friends)
+ "=" mischievous 
+ romantic comedy 
+ "=" schedule 
+ gonic, pogonic
+ "=" epitome 
+ obliczeniowo, komputerowo
+ "=" chick fick 
+ oszacowac, okreslic ilosciowo, zmierzyc, obliczyc
+ "=" bromance 
+ wielomian
+ "=" romcom 
+ szeroki, bogaty, rozlegly
+ "=" chase 
+ prowadzic, doprowadzic
+ "=" computationally 
+ oszust, nasladowczyni
+ "=" quantify 
+ odwrotnie, wrecz przeciwnie
+ "=" polynomial 
+ odpowiedni, analogiczny,odnosny
+ "=" wide 
+ spotkanie, zgromadzenie
+ "=" lead 
+ zebrac, zbierac, gromadzic
+ "=" imposter 
+ dolaczyc, zalaczyc
+ "=" conversely 
+ powiedziec, poinformowac
+ "=" corresponding 
+ zabytek, punkt orientacyjny, symbol
+ "=" gathering 
+ zgelk, gwar, rozgardiasz
+ "=" gather 
+ gwarny, ruchliwy
+ "=" enclose 
+ szczery, uczciwy, rzetelny
+ "=" notify 
+ spokojny, cuchy
+ "=" landmark 
+ tlum, publiczosc, ludzie
+ "=" bustle 
+ zatloczone, przeludnione
+ "=" bustling 
+ kwestia, problem, sprawa
+ "=" honest 
+ jakosc, poziom, cecha
+ "=" peaceful 
+ szeroki, szerszy
+ "=" crowd 
+ wplyw, wplywac, dzialac, ksztaltowac
+ "=" crowded 
+ z pewnoscia, na pewno, oczywiscie, zdecydowanie
+ "=" issue 
+ zlozyc, przedstawic, skladac
+ "=" quality 
+ pewieny, okreslony, konkretny
+ "=" wider 
+ niezauwazalny, niedostrzegalny
+ "=" influence 
+ ustalic, okreslic, decydowac
+ "=" certainly 
+ zaliczka, rozwijac, awansowac
+ "=" submit 
+ oszacowac, szacowac, ocenic
+ "=" certain 
+ przecinac sie, przecinac
+ "=" imperceptible 
+ nierownosc
+ "=" determine 
+ nierowno
+ "=" advance 
+ oznacza
+ "=" estimate 
+ oznaczac, sugerowac, implikowac, wskazywac
+ "=" intersect 
+ dostepny
+ "=" lnequality 
+ mimo to, obojetne
+ "=" uneven  
+ czy, zarowno
+ "=" implies 
+ bez wzgledu
+ "=" imply 
+ pierwszeestwo, priorytet
+ "=" accessible
+ warstwa, powloka
+ "=" regardless 
+ wykorzystac, korzystac
+ "=" whether 
+ doskonale pamietam 
+ "=" irrespective 
+ musze (powiedziec,isc,rozmawiac)
+ "=" precedence 
+ pozbyc sie czegos
+ "=" layer 
+ podkreslic (podswietlic) slowa
+ "=" leverage 
+ rozszerzenie
+ "=" i vividly remember 
+ obawa, troska, martwic sie, dotyczyc
+ "=" got to (tell,go,talk) 
+ pewnych okolicznosciach
+ "=" get rid of something 
+ kompleksowy, wszechstronny, obszerny
+ "=" highlight words 
+ przewidywac, spodziewac, oczekiwac
+ "=" extension 
+ zaangazowany, zwiazany, uszestniczy
+ "=" concern 
+ wyglad, pojawienie, wstep
+ "=" certain circumstances 
+ pojawic sie, wygladac, wystepowac
+ "=" comprehensive 
+  zmienic, skorygowac
+ "=" anticipate 
+  zabezpieczyc
+ "=" involved 
+ wyznac
+ "=" appearance 
+ close, turn off
+ "=" appear 
+ fight, problem 
+ "=" resive 
+ poszerzyc cos
+ "=" hedge  
+ numerous
+ "=" to admit 
+ odglos dzwiek 
+ "=" shut down 
+ zaklocic, przeszkodzic 
+ "=" struggle 
+ mdly
+ "=" to expand 
+ nabiac
+ "=" many 
+ smazyc
+ "=" noise 
+ pozywny, sycacy
+ "=" disturb 
+ otylosc
+ "=" bland 
+ drob
+ "=" dairy product  
+ walka, problem, trudnosc, walczyc, zmagac, szarpac
+ "=" fry 
+ oddychac
+ "=" nutritous 
+ po prostu, tylko, wlasnie, zaledwie, tuz
+ "=" obesity 
+ przebolec, podejsc, przejechac, pokonac
+ "=" poultry 
+ chociaz, jednak 
+ "=" struggle 
+ niepokoj, lek, obawa
+ "=" breathe 
+ doslownie
+ "=" just 
+  zawroty glowy
+ "=" get over 
+ hiperwnetylowac
+ "=" though 
+ celowo, swiadomie, umyslnie, specjalnie
+ "=" anxiety 
+  zamiast
+ "=" literally 
+ wywolywany, przywolany
+ "=" dizzy 
+ obrot, odrocic, przewrocic
+ "=" hyperventilate 
+ rozszerzyc, przedlurzyc
+ "=" deliberately 
+ katstrofa, nieszczescie, porazka
+ "=" instead of 
+ nieszczesliwy, nedzny, zalosny
+ "=" invoke 
+ pasek, belka
+ "=" flip 
+ tasma
+ "=" extend 
+ tylny
+ "=" disaster 
+ przewoz, powoz
+ "=" miserable 
+ przeszkadzac
+ "=" stripe 
+ podchodzic, metoda, zblizyc
+ "=" strip 
+ zmiene podejscie
+ "=" rear 
+ amswer
+ "=" carriage 
+ probably
+ "=" interrupt 
+ prossibly
+ "=" approach 
+ outside
+ "=" agile approach 
+ poczucie czas
+ "=" reply 
+ monitorowac
+ "=" likely 
+ wyplywac, oddzialowywac, oddzialywac
+ "=" perhaps 
+ odpowiedno, kolejno
+ "=" external 
+ pamientac, przypomniec sobie
+ "=" track of time 
+  zasadniczo, glownie
+ "=" track 
+ nudny
+ "=" influence 
+ przekupstwo
+ "=" respectively 
+ lapowka
+ "=" recall 
+ sztucce
+ "=" essentially 
+ koldra
+ "=" tedious 
+  trawienie pokarmu
+ "=" bribing 
+ illness
+ "=" bribe 
+ kostka
+ "=" cutlery 
+ rzesy
+ "=" quilt 
+ stworzenia
+ "=" digest food 
+ owad, robak
+ "=" disease 
+ poscig, gonic
+ "=" cube 
+ na bosaka
+ "=" eyelashes 
+ odnosnik
+ "=" creature 
+ scenariusz
+ "=" insect 
+ dosc, calkiem
+ "=" chase 
+ zazwyczaj
+ "=" barefoot 
+ dostawa
+ "=" loopup 
+ roznorodnosc, urozmaicenie
+ "=" scenario 
+ licznik, zwalczac, przeciwdzialac
+ "=" fairky 
+ przeciecie
+ "=" ordinarly 
+ flexiable(wszechstronne, uniwersalne)
+ "=" supply 
+ odpad, marnowac, trwnoic
+ "=" variety 
+ makes our planet dirty
+ "=" counter 
+ bronic, obronic, chronic
+ "=" intersection 
+ zaleznosc
+ "=" versatile 
+ plan, program
+ "=" waste 
+ przelozyc, odlozyc
+ "=" littering 
+ doczekac
+ "=" defend 
+ zacheta
+ "=" reliance 
+ dowod, zeznania
+ "=" agenda 
+ pobrany, odzyskany
+ "=" postpone 
+ pozadany, zadany
+ "=" looking forward 
+ bezwarunkowo
+ "=" insentive 
+ umozliwiac, wlaczyc,pozwalac
+ "=" evidence 
+ podniesc, wychowywac
+ "=" retrieved 
+ wykonywac, przeprowadzic
+ "=" desired 
+ osadzic, umiescic
+ "=" unconditonally 
+ zawinac, owinac, zapakowac
+ "=" enable 
+ ostatni
+ "=" raise 
+ kluczowy, wazny
+ "=" perform 
+ niewielki
+ "=" embed 
+ pomimo, mimo
+ "=" wrap 
+ prognoza
+ "=" recent 
+ pamietac, wspominac
+ "=" crucial 
+ oglosic, zapowiadac
+ "=" slight 
+ ostatecznie, docelowo
+ "=" despite 
+ ogolnokrajowy
+ "=" forecast 
+ atrakcyjny
+ "=" recall 
+ calkowice, zupelnie
+ "=" announce 
+ zatrudnic
+ "=" ultimately 
+ rozwiazac
+ "=" nationwide 
+ wywnioskowac
+ "=" appealling 
+ znany
+ "=" althogether 
+ lodowka
+ "=" hire 
+ dowiedziec sie
+ "=" resolve 
+ smieci
+ "=" infer 
+encompass 
+ =  obejmowac, objac, zawierac
+storage 
+ =  przechowywanie, magazynowac, skladowane, pamiec
+infrastructure 
+ =  infrastruktura, zaplecze
+networking 
+ =  sies, wspopraca, polaczenie
+enterprise 
+ =  przedsiebiorstwo, przeciebiorczosc, firma, korporacja
+peripheral 
+ =  obwodowy, peryferyjny
+methodologies 
+ =  metodologii, metody, metodyki
+domain 
+ =  domena, dziedzina, sferze
+coin 
+ =  ukuc, wymyslic
+advantage 
+ =  zaleta, przewaga, korzysc, plus, atut
+melt 
+ =  stopic, topic, rozpuscic
+boil 
+ =  gotowac, zagotowac, wrzec
+evaporate 
+ =  odparowac, wyparowac
+independent 
+ =  niezalesny, samodzielny
+addict 
+ =  narkoman
+addicted 
+ =  uzalezniony
+addiction 
+ =  uzaleznienie
+hardly 
+ =  ledwo, trudno 
+affectionate 
+ =  czucy, kochajacy
+purring 
+ =  mruczy, mruczenie
+stroke 
+ =  poglaskac
+curl up 
+ =  zwijac sie, kulic sie, zawinac sie
+longish 
+ =  dlugie
+whizz 
+ =  smigac
+slippery 
+ =  sliski 
+sewing machine 
+ =  maszyna do szycia
+alteration 
+ =  zmiana, przebudowa, przerobka 
+suppose 
+ =  przypuszczam, ze..., chyba, przypuscmy, ze...
+murderer 
+ =  morderca, zabojca
+ingredient 
+ =  skladnik, element, substancja
+departed 
+ =  odeszly, zmarly
+boarding 
+ =  odprawy
+delayed 
+ =  opzniony, spzniony
+gate change 
+ =  zmiana bramki
+cancelled 
+ =  anulowany
+final call 
+ =  ostatnie wezwanie
+rewarding 
+ =  wynagrodzenie
+demanding 
+ =  wymagajacy
+inspiring 
+ =  inspirujacy
+exhausting 
+ =  wyczerpujacy 
+responsible for 
+ =  odpowiedzialny za...
+in charge of 
+ =  odpowiedzialny za ..., dowodzi
+deal with 
+ =  radzic sobie z, poradzic sobie z 
+manage 
+ =  zarzadzac, kierowac, prowadzic
+fairy 
+ =  wroka, bajka, czarodziejka
+annoy 
+ =  denerwujacy, drazliwy, wkurzyc, wkurzac
+seem 
+ =  wydawac sie, widac, wygladac
+otherwise 
+ =  inaczej, w przeciwnym razie 
+rarely 
+ =  rzadko
+seldom 
+ =  rzadko, not often
+often 
+ =  frequently
+usually 
+ =  most of the time
+sometimes 
+ =  occasionally
+hardly ever 
+ =  almost never
+from time to time 
+ =  sometimes but not often
+normally 
+ =  usually
+be late 
+ =  not arrive on time
+board game 
+ =  any game in which you move objects around on a special board
+stressed 
+ =  worried and not able to relax
+nap 
+ =  a short sleep
+according 
+ =  zgodnie, zgodny
+hang out 
+ =  posiedziec, przebywac, spotykac sie
+auxiliary 
+ =  pomocniczy, dodatkowy
+emphasis 
+ =  nacisk, podkreslenia
+annoying 
+ =  wkurzajace, irytujace, uciazliwy	
+unless 
+ =  chyba, ze..., jezeli nie
+properly 
+ =  odpowiednio, prawidlowo
+wage 
+ =  wynagrodzenie, placa
+related 
+ =  powiazany
+camel(kanol) 
+ =  wielblad 
+spit 
+ =  pluc
+resentful 
+ =  urazony, obrazony, odrzucony
+harsh 
+ =  surowy, ostry, szorstki, nie mily
+quantity 
+ =  liczba, ilosc, sztuk, naklad
+tick 
+ =  kleszcz, tykac, znaczenie
+radius(rejdious) 
+ =  zasieg, promien, obszar
+multiline annotation 
+ =  adnotacja wieloliniowa
+accompany 
+ =  towarzyszyc, oprowadzic, dolaczyc
+properties 
+ =  wlasciwosci
+abbreviation 
+ =  shortcut - skrot
+refer 
+ =  odnosci sie, dolaczyc, odniesc sie
+residential 
+ =  mieszkaniowy
+steady 
+ =  staly, stabilny, ciagly
+tight 
+ =  cisany, napiety, obcisly, szczelny
+cumbersome 
+ =  uciazliwy, klopotliwy, nieporeczy
+annual cost 
+ =  roczny koszt
+lend 
+ =  pozyczac, uzyczac
+prove(pruw) 
+ =  udowadnic, okazac, dowiesc
+wisely 
+ =  madrze, rozsadnie, roztropnie
+stick to 
+ =  trzymac sie, postrzegac
+genre 
+ =  gatunek
+impact 
+ =  wplywac, wplyw, skutek, uderzenie, znaczenie, dzialanie
+reschedule 
+ =  przesunsc, umowic, przeniesc, przekladac, zmienic termin
+receive 
+ =  otrzymac, odbierac, uzyskac
+afford 
+ =  zaplacic, kupic, zapewnic
+doubt 
+ =  zwatpic, watpic 
+actively 
+ =  aktywnie, czynnie, intesywnie
+relatives(relatiws) 
+ =  krewni, bliscy
+investigate 
+ =  zbadac, badac, przeanalizowac 
+dimension 
+ =  wymiar, rozmiar
+exceeding 
+ =  przekroczenie, powyzej
+threshold 
+ =  granica, pulap
+therefore 
+ =  dlatego , zatem, zwiazku z tym
+obtain 
+ =  uzyskac, uzyskiwac, zdobyc, pozyskac, otrzymac
+whereas 
+ =  podczas gdy, tymczasem
+intend 
+ =  zamierzac, zamierzyc ( i intend to achieve my very goals at the year)
+till you drop 
+ =  do upadlego, az padniesz
+shoplifter 
+ =  zlodziej
+combination 
+ =  polaczenie, kombinacja
+advantageous 
+ =  korzystny
+advantage 
+ =  zaleta, korzysc
+excessively 
+ =  nadmiernie, zbyt, przesadnie
+spree 
+ =  szal, szalenstwo
+octopus 
+ =  osmirnica
+ostery 
+ =  ostryga
+salmon 
+ =  losos
+scallop 
+ =  przegrzebka
+prawns 
+ =  krewetki
+lobster 
+ =  homar
+fiddle 
+ =  skrzypce
+clound nine 
+ =  w siodmym niebie
+briefly 
+ =  krotko, pokrotce, zwizle, pobieznie
+arrangement 
+ =  uklad, aranzacja, umowa,ustalenie
+permission 
+ =  zgoda, pozwolenie, uprawnienie
+thinner 
+ =  chudszy
+broadcast 
+ =  transmisja, audycja, przekaz
+naughty (nadi)
+ =  niegrzeczny, nieprzyzwoity, niesforny
+loudly 
+ =  glosno, donosnie, hucznie
+exhibit 
+ =  wystawa, wystawiac, eksponat, wykazywac
+artefact 
+ =  artefakt
+antiquity 
+ =  starosytnosc, antyk
+relic 
+ =  relikt
+plinth 
+ =  postument, cokl
+mount 
+ =  uchwyt, montac, zamontowac, montowac, mocowac
+alcove 
+ =  alkowa, wneka, nisza
+torso 
+ =  tulow,tors, korpus, piers
+sculpture 
+ =  rzezba, pomnik, figura
+bust(bast) 
+ =  popiersie, biust
+mosaic 
+ =  mazaika
+elaborately 
+ =  misternie, starannie, bogato, kunsztownie
+skull 
+ =  czaszka, leb, glowa
+rival 
+ =  rywal
+extract 
+ =  wydobywac, wyodrebniac
+oppose 
+ =  sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
+figure out 
+ =   dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
+delimiter 
+ =  ogranicznik, separator
+align(alain) 
+ =  dostosowac, wyrownac, dopasowac
+realign 
+ =  przestawiac, przystroic, wyregulowac
+concatenate 
+ =  zlaczyc
+redundant 
+ =  unnessesery - zbedny, nadmierny, niepotrzebny
+misaligned rows 
+ =  nieprawidlowo wyrownane rzedy
+merge 
+ =  connect  join  important - wazny
+append 
+ =  ostrzegac, ostrzec, uprzedzic
+valid 
+ =  rok zakonczenia
+warn 
+ =  czas trwania
+year of completion 
+ =  keep  uplynsc, minal
+duration 
+ =  term - kadencja, posade
+retain 
+ =  straight (strejt)- prosty, gladki, jasny, czysty
+elapse 
+ =  poniesc, wychowac, pozyskac
+tenure  
+ =   dalej, kolejny, dodatkowy, nastepnie
+plain  
+ =  to nie tak daleko
+raise 
+ =  jowisz
+further  
+ =  oszywiscie, najwyrazniej
+that's not that far 
+ =  ewidentny, oszywisty, sjasny, widoczny
+jupiter 
+ =  dwutlenek wegla
+obviously(obwesli) 
+ =  change- zmienic, skorygowac, poprawic
+obvious 
+ =  lista zyczen, listazakupowa
+carbon dioxide(daioxaid) 
+ =  rozliczenie, rachunek
+revise  
+ =  wozek sklepowy, woz
+wishlist 
+ =  kasa
+billing 
+ =  produkt chwilowo niedosteny
+cart 
+ =  przesylka, wysylka, dostawa, transport
+checkout 
+ =  na magazynie, na stanie
+out of stock 
+ =  towar, rzeczy, towary
+shipment 
+ =  musze, chce
+in stock 
+ =   zrobic, bedziesz 
+goods 
+ =  chce, chcesz
+gotta 
+ = end  drogi
+gonna 
+ =  rozboj w bialy dzien
+wanna 
+ =  zaplacic najwyzsza cene
+high
+ =  rozbic bank
+pricey 
+ =  wskazowka, trop, slad
+daylight robbery 
+ =  nieodlaczny, wrodony
+pay top dolar 
+ =  porzadkowy
+break the bank 
+ =  dostosowac, dopasowac
+clue 
+ =  uwolnic, zwolnic
+inherent 
+ =  przesunac, przeniesc, zmienic, zmiana, dyzur
+ordinal 
+ =  odchylenie, odstepstwo
+adjust 
+ =  wzgledny, stosunkowy
+release 
+ =  rozciagnac, rozprostowac
+shift 
+ =  oznaczyc, okreslenia
+diviation 
+ =  rozwazyc, uwazac, uznac
+relative 
+ =  przypisac
+stretch 
+ =   zakladac, przyjsc, ponosic
+denote 
+ =  probka, sample, probkowac, skosztowac
+consider 
+ =  okragly, kolowy, kolisty
+assign 
+ =  wprowadzic, przedstawic, przedsatwic
+assume 
+ =  oszacowac, szacunek, ocenic
+sample 
+ =  progniza, przewidywac, prognostyk
+circular 
+ =  wymagac, rzadac, popyt, wymaganie
+introduce 
+ =  dotyczyc, powiazac, wiazac, nawiazac
+estimate 
+ =  krzywa sinisoidalna
+forecast 
+ =  degradowac, ponisac, pogarszac
+demand 
+ =  rownomiernie, rowno
+relate 
+ =  wyraå¾nie, jednoznacznie, jawnie, wprost
+sine curve 
+ =  kwasny
+degrade 
+ =  dlug
+equally 
+ =  hipoteka, kredyt hipoteczny
+explicitly 
+ =  subtelny, delikatny
+sour 
+ =  kciuk
+debt 
+ =  pchowac, zakopac, chowac
+mortgage 
+ =  miecz, szpada, ostrze
+subtle 
+ =  zlosliwy, psotny, figlarny, szkodliwy
+thumb 
+ =  harmonogram, plan, zaplanowac, umowic
+bury 
+ =  uosobienie, typowy przyklad
+sword 
+ =  woman films(romance, very emontional fims)
+mischievous 
+ =  film for man ( about two good friends)
+schedule 
+ =  romantic comedy 
+epitome 
+ =  gonic, pogonic
+chick fick 
+ =  obliczeniowo, komputerowo
+bromance 
+ =  oszacowac, okreslic ilosciowo, zmierzyc, obliczyc
+romcom 
+ =  wielomian
+chase 
+ =  szeroki, bogaty, rozlegly
+computationally 
+ =  prowadzic, doprowadzic
+quantify 
+ =  oszust, nasladowczyni
+polynomial 
+ =  odwrotnie, wrecz przeciwnie
+wide 
+ =  odpowiedni, analogiczny,odnosny
+lead 
+ =  spotkanie, zgromadzenie
+imposter 
+ =  zebrac, zbierac, gromadzic
+conversely 
+ =  dolaczyc, zalaczyc
+corresponding 
+ =  powiedziec, poinformowac
+gathering 
+ =  zabytek, punkt orientacyjny, symbol
+gather 
+ =  zgelk, gwar, rozgardiasz
+enclose 
+ =  gwarny, ruchliwy
+notify 
+ =  szczery, uczciwy, rzetelny
+landmark 
+ =  spokojny, cuchy
+bustle 
+ =  tlum, publiczosc, ludzie
+bustling 
+ =  zatloczone, przeludnione
+honest 
+ =  kwestia, problem, sprawa
+peaceful 
+ =  jakosc, poziom, cecha
+crowd 
+ =  szeroki, szerszy
+crowded 
+ =  wplyw, wplywac, dzialac, ksztaltowac
+issue 
+ =  z pewnoscia, na pewno, oczywiscie, zdecydowanie
+quality 
+ =  zlozyc, przedstawic, skladac
+wider 
+ =  pewieny, okreslony, konkretny
+influence 
+ =  niezauwazalny, niedostrzegalny
+certainly 
+ =  ustalic, okreslic, decydowac
+submit 
+ =  zaliczka, rozwijac, awansowac
+certain 
+ =  oszacowac, szacowac, ocenic
+imperceptible 
+ =  przecinac sie, przecinac
+determine 
+ =  nierownosc
+advance 
+ =  nierowno
+estimate 
+ =  oznacza
+intersect 
+ =  oznaczac, sugerowac, implikowac, wskazywac
+lnequality 
+ =  dostepny
+uneven  
+ =  mimo to, obojetne
+implies 
+ =  czy, zarowno
+imply 
+ =  bez wzgledu
+accessible
+ =  pierwszeestwo, priorytet
+regardless 
+ =  warstwa, powloka
+whether 
+ =  wykorzystac, korzystac
+irrespective 
+ =  doskonale pamietam 
+precedence 
+ =  musze (powiedziec,isc,rozmawiac)
+layer 
+ =  pozbyc sie czegos
+leverage 
+ =  podkreslic (podswietlic) slowa
+i vividly remember 
+ =  rozszerzenie
+got to (tell,go,talk) 
+ =  obawa, troska, martwic sie, dotyczyc
+get rid of something 
+ =  pewnych okolicznosciach
+highlight words 
+ =  kompleksowy, wszechstronny, obszerny
+extension 
+ =  przewidywac, spodziewac, oczekiwac
+concern 
+ =  zaangazowany, zwiazany, uszestniczy
+certain circumstances 
+ =  wyglad, pojawienie, wstep
+comprehensive 
+ =  pojawic sie, wygladac, wystepowac
+anticipate 
+ =   zmienic, skorygowac
+involved 
+ =   zabezpieczyc
+appearance 
+ =  wyznac
+appear 
+ =  close, turn off
+resive 
+ =  fight, problem 
+hedge  
+ =  poszerzyc cos
+to admit 
+ =  numerous
+shut down 
+ =  odglos dzwiek 
+struggle 
+ =  zaklocic, przeszkodzic 
+to expand 
+ =  mdly
+many 
+ =  nabiac
+noise 
+ =  smazyc
+disturb 
+ =  pozywny, sycacy
+bland 
+ =  otylosc
+dairy product  
+ =  drob
+fry 
+ =  walka, problem, trudnosc, walczyc, zmagac, szarpac
+nutritous 
+ =  oddychac
+obesity 
+ =  po prostu, tylko, wlasnie, zaledwie, tuz
+poultry 
+ =  przebolec, podejsc, przejechac, pokonac
+struggle 
+ =  chociaz, jednak 
+breathe 
+ =  niepokoj, lek, obawa
+just 
+ =  doslownie
+get over 
+ =   zawroty glowy
+though 
+ =  hiperwnetylowac
+anxiety 
+ =  celowo, swiadomie, umyslnie, specjalnie
+literally 
+ =   zamiast
+dizzy 
+ =  wywolywany, przywolany
+hyperventilate 
+ =  obrot, odrocic, przewrocic
+deliberately 
+ =  rozszerzyc, przedlurzyc
+instead of 
+ =  katstrofa, nieszczescie, porazka
+invoke 
+ =  nieszczesliwy, nedzny, zalosny
+flip 
+ =  pasek, belka
+extend 
+ =  tasma
+disaster 
+ =  tylny
+miserable 
+ =  przewoz, powoz
+stripe 
+ =  przeszkadzac
+strip 
+ =  podchodzic, metoda, zblizyc
+rear 
+ =  zmiene podejscie
+carriage 
+ =  amswer
+interrupt 
+ =  probably
+approach 
+ =  prossibly
+agile approach 
+ =  outside
+reply 
+ =  poczucie czas
+likely 
+ =  monitorowac
+perhaps 
+ =  wyplywac, oddzialowywac, oddzialywac
+external 
+ =  odpowiedno, kolejno
+track of time 
+ =  pamientac, przypomniec sobie
+track 
+ =   zasadniczo, glownie
+influence 
+ =  nudny
+respectively 
+ =  przekupstwo
+recall 
+ =  lapowka
+essentially 
+ =  sztucce
+tedious 
+ =  koldra
+bribing 
+ =   trawienie pokarmu
+bribe 
+ =  illness
+cutlery 
+ =  kostka
+quilt 
+ =  rzesy
+digest food 
+ =  stworzenia
+disease 
+ =  owad, robak
+cube 
+ =  poscig, gonic
+eyelashes 
+ =  na bosaka
+creature 
+ =  odnosnik
+insect 
+ =  scenariusz
+chase 
+ =  dosc, calkiem
+barefoot 
+ =  zazwyczaj
+loopup 
+ =  dostawa
+scenario 
+ =  roznorodnosc, urozmaicenie
+fairky 
+ =  licznik, zwalczac, przeciwdzialac
+ordinarly 
+ =  przeciecie
+supply 
+ =  flexiable(wszechstronne, uniwersalne)
+variety 
+ =  odpad, marnowac, trwnoic
+counter 
+ =  makes our planet dirty
+intersection 
+ =  bronic, obronic, chronic
+versatile 
+ =  zaleznosc
+waste 
+ =  plan, program
+littering 
+ =  przelozyc, odlozyc
+defend 
+ =  doczekac
+reliance 
+ =  zacheta
+agenda 
+ =  dowod, zeznania
+postpone 
+ =  pobrany, odzyskany
+looking forward 
+ =  pozadany, zadany
+insentive 
+ =  bezwarunkowo
+evidence 
+ =  umozliwiac, wlaczyc,pozwalac
+retrieved 
+ =  podniesc, wychowywac
+desired 
+ =  wykonywac, przeprowadzic
+unconditonally 
+ =  osadzic, umiescic
+enable 
+ =  zawinac, owinac, zapakowac
+raise 
+ =  ostatni
+perform 
+ =  kluczowy, wazny
+embed 
+ =  niewielki
+wrap 
+ =  pomimo, mimo
+recent 
+ =  prognoza
+crucial 
+ =  pamietac, wspominac
+slight 
+ =  oglosic, zapowiadac
+despite 
+ =  ostatecznie, docelowo
+forecast 
+ =  ogolnokrajowy
+recall 
+ =  atrakcyjny
+announce 
+ =  calkowice, zupelnie
+ultimately 
+ =  zatrudnic
+nationwide 
+ =  rozwiazac
+appealling 
+ =  wywnioskowac
+althogether 
+ =  znany
+hire 
+ =  lodowka
+resolve 
+ =  dowiedziec sie
+infer 
+ =  smieci
+encompass 
+ =  obejmowac, objac, zawierac
+storage 
+ =  przechowywanie, magazynowac, skladowane, pamiec
+infrastructure 
+ =  infrastruktura, zaplecze
+networking 
+ =  sies, wspopraca, polaczenie
+enterprise 
+ =  przedsiebiorstwo, przeciebiorczosc, firma, korporacja
+peripheral 
+ =  obwodowy, peryferyjny
+methodologies 
+ =  metodologii, metody, metodyki
+domain 
+ =  domena, dziedzina, sferze
+coin 
+ =  ukuc, wymyslic
+advantage 
+ =  zaleta, przewaga, korzysc, plus, atut
+melt 
+ =  stopic, topic, rozpuscic
+boil 
+ =  gotowac, zagotowac, wrzec
+evaporate 
+ =  odparowac, wyparowac
+independent 
+ =  niezalesny, samodzielny
+addict 
+ =  narkoman
+addicted 
+ =  uzalezniony
+addiction 
+ =  uzaleznienie
+hardly 
+ =  ledwo, trudno 
+affectionate 
+ =  czucy, kochajacy
+purring 
+ =  mruczy, mruczenie
+stroke 
+ =  poglaskac
+curl up 
+ =  zwijac sie, kulic sie, zawinac sie
+longish 
+ =  dlugie
+whizz 
+ =  smigac
+slippery 
+ =  sliski 
+sewing machine 
+ =  maszyna do szycia
+alteration 
+ =  zmiana, przebudowa, przerobka 
+suppose 
+ =  przypuszczam, ze..., chyba, przypuscmy, ze...
+murderer 
+ =  morderca, zabojca
+ingredient 
+ =  skladnik, element, substancja
+departed 
+ =  odeszly, zmarly
+boarding 
+ =  odprawy
+delayed 
+ =  opzniony, spzniony
+gate change 
+ =  zmiana bramki
+cancelled 
+ =  anulowany
+final call 
+ =  ostatnie wezwanie
+rewarding 
+ =  wynagrodzenie
+demanding 
+ =  wymagajacy
+inspiring 
+ =  inspirujacy
+exhausting 
+ =  wyczerpujacy 
+responsible for 
+ =  odpowiedzialny za...
+in charge of 
+ =  odpowiedzialny za ..., dowodzi
+deal with 
+ =  radzic sobie z, poradzic sobie z 
+manage 
+ =  zarzadzac, kierowac, prowadzic
+fairy 
+ =  wroka, bajka, czarodziejka
+annoy 
+ =  denerwujacy, drazliwy, wkurzyc, wkurzac
+seem 
+ =  wydawac sie, widac, wygladac
+otherwise 
+ =  inaczej, w przeciwnym razie 
+rarely 
+ =  rzadko
+seldom 
+ =  rzadko, not often
+often 
+ =  frequently
+usually 
+ =  most of the time
+sometimes 
+ =  occasionally
+hardly ever 
+ =  almost never
+from time to time 
+ =  sometimes but not often
+normally 
+ =  usually
+be late 
+ =  not arrive on time
+board game 
+ =  any game in which you move objects around on a special board
+stressed 
+ =  worried and not able to relax
+nap 
+ =  a short sleep
+according 
+ =  zgodnie, zgodny
+hang out 
+ =  posiedziec, przebywac, spotykac sie
+auxiliary 
+ =  pomocniczy, dodatkowy
+emphasis 
+ =  nacisk, podkreslenia
+annoying 
+ =  wkurzajace, irytujace, uciazliwy	
+unless 
+ =  chyba, ze..., jezeli nie
+properly 
+ =  odpowiednio, prawidlowo
+wage 
+ =  wynagrodzenie, placa
+related 
+ =  powiazany
+camel(kanol) 
+ =  wielblad 
+spit 
+ =  pluc
+resentful 
+ =  urazony, obrazony, odrzucony
+harsh 
+ =  surowy, ostry, szorstki, nie mily
+quantity 
+ =  liczba, ilosc, sztuk, naklad
+tick 
+ =  kleszcz, tykac, znaczenie
+radius(rejdious) 
+ =  zasieg, promien, obszar
+multiline annotation 
+ =  adnotacja wieloliniowa
+accompany 
+ =  towarzyszyc, oprowadzic, dolaczyc
+properties 
+ =  wlasciwosci
+abbreviation 
+ =  shortcut - skrot
+refer 
+ =  odnosci sie, dolaczyc, odniesc sie
+residential 
+ =  mieszkaniowy
+steady 
+ =  staly, stabilny, ciagly
+tight 
+ =  cisany, napiety, obcisly, szczelny
+cumbersome 
+ =  uciazliwy, klopotliwy, nieporeczy
+annual cost 
+ =  roczny koszt
+lend 
+ =  pozyczac, uzyczac
+prove(pruw) 
+ =  udowadnic, okazac, dowiesc
+wisely 
+ =  madrze, rozsadnie, roztropnie
+stick to 
+ =  trzymac sie, postrzegac
+genre 
+ =  gatunek
+impact 
+ =  wplywac, wplyw, skutek, uderzenie, znaczenie, dzialanie
+reschedule 
+ =  przesunsc, umowic, przeniesc, przekladac, zmienic termin
+receive 
+ =  otrzymac, odbierac, uzyskac
+afford 
+ =  zaplacic, kupic, zapewnic
+doubt 
+ =  zwatpic, watpic 
+actively 
+ =  aktywnie, czynnie, intesywnie
+relatives(relatiws) 
+ =  krewni, bliscy
+investigate 
+ =  zbadac, badac, przeanalizowac 
+dimension 
+ =  wymiar, rozmiar
+exceeding 
+ =  przekroczenie, powyzej
+threshold 
+ =  granica, pulap
+therefore 
+ =  dlatego , zatem, zwiazku z tym
+obtain 
+ =  uzyskac, uzyskiwac, zdobyc, pozyskac, otrzymac
+whereas 
+ =  podczas gdy, tymczasem
+intend 
+ =  zamierzac, zamierzyc ( i intend to achieve my very goals at the year)
+till you drop 
+ =  do upadlego, az padniesz
+shoplifter 
+ =  zlodziej
+combination 
+ =  polaczenie, kombinacja
+advantageous 
+ =  korzystny
+advantage 
+ =  zaleta, korzysc
+excessively 
+ =  nadmiernie, zbyt, przesadnie
+spree 
+ =  szal, szalenstwo
+octopus 
+ =  osmirnica
+ostery 
+ =  ostryga
+salmon 
+ =  losos
+scallop 
+ =  przegrzebka
+prawns 
+ =  krewetki
+lobster 
+ =  homar
+fiddle 
+ =  skrzypce
+clound nine 
+ =  w siodmym niebie
+briefly 
+ =  krotko, pokrotce, zwizle, pobieznie
+arrangement 
+ =  uklad, aranzacja, umowa,ustalenie
+permission 
+ =  zgoda, pozwolenie, uprawnienie
+thinner 
+ =  chudszy
+broadcast 
+ =  transmisja, audycja, przekaz
+naughty (nadi)
+ =  niegrzeczny, nieprzyzwoity, niesforny
+loudly 
+ =  glosno, donosnie, hucznie
+exhibit 
+ =  wystawa, wystawiac, eksponat, wykazywac
+artefact 
+ =  artefakt
+antiquity 
+ =  starosytnosc, antyk
+relic 
+ =  relikt
+plinth 
+ =  postument, cokl
+mount 
+ =  uchwyt, montac, zamontowac, montowac, mocowac
+alcove 
+ =  alkowa, wneka, nisza
+torso 
+ =  tulow,tors, korpus, piers
+sculpture 
+ =  rzezba, pomnik, figura
+bust(bast) 
+ =  popiersie, biust
+mosaic 
+ =  mazaika
+elaborately 
+ =  misternie, starannie, bogato, kunsztownie
+skull 
+ =  czaszka, leb, glowa
+rival 
+ =  rywal
+extract 
+ =  wydobywac, wyodrebniac
+oppose 
+ =  sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
+figure out 
+ =   dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
+delimiter 
+ =  ogranicznik, separator
+align(alain) 
+ =  dostosowac, wyrownac, dopasowac
+realign 
+ =  przestawiac, przystroic, wyregulowac
+concatenate 
+ =  zlaczyc
+redundant 
+ =  unnessesery - zbedny, nadmierny, niepotrzebny
+misaligned rows 
+ =  nieprawidlowo wyrownane rzedy
+merge 
+ =  connect  join  important - wazny
+append 
+ =  ostrzegac, ostrzec, uprzedzic
+valid 
+ =  rok zakonczenia
+warn 
+ =  czas trwania
+year of completion 
+ =  keep  uplynsc, minal
+duration 
+ =  term - kadencja, posade
+retain 
+ =  straight (strejt)- prosty, gladki, jasny, czysty
+elapse 
+ =  poniesc, wychowac, pozyskac
+tenure  
+ =   dalej, kolejny, dodatkowy, nastepnie
+plain  
+ =  to nie tak daleko
+raise 
+ =  jowisz
+further  
+ =  oszywiscie, najwyrazniej
+that's not that far 
+ =  ewidentny, oszywisty, sjasny, widoczny
+jupiter 
+ =  dwutlenek wegla
+obviously(obwesli) 
+ =  change- zmienic, skorygowac, poprawic
+obvious 
+ =  lista zyczen, listazakupowa
+carbon dioxide(daioxaid) 
+ =  rozliczenie, rachunek
+revise  
+ =  wozek sklepowy, woz
+wishlist 
+ =  kasa
+billing 
+ =  produkt chwilowo niedosteny
+cart 
+ =  przesylka, wysylka, dostawa, transport
+checkout 
+ =  na magazynie, na stanie
+out of stock 
+ =  towar, rzeczy, towary
+shipment 
+ =  musze, chce
+in stock 
+ =   zrobic, bedziesz 
+goods 
+ =  chce, chcesz
+gotta 
+ = end  drogi
+gonna 
+ =  rozboj w bialy dzien
+wanna 
+ =  zaplacic najwyzsza cene
+high
+ =  rozbic bank
+pricey 
+ =  wskazowka, trop, slad
+daylight robbery 
+ =  nieodlaczny, wrodony
+pay top dolar 
+ =  porzadkowy
+break the bank 
+ =  dostosowac, dopasowac
+clue 
+ =  uwolnic, zwolnic
+inherent 
+ =  przesunac, przeniesc, zmienic, zmiana, dyzur
+ordinal 
+ =  odchylenie, odstepstwo
+adjust 
+ =  wzgledny, stosunkowy
+release 
+ =  rozciagnac, rozprostowac
+shift 
+ =  oznaczyc, okreslenia
+diviation 
+ =  rozwazyc, uwazac, uznac
+relative 
+ =  przypisac
+stretch 
+ =   zakladac, przyjsc, ponosic
+denote 
+ =  probka, sample, probkowac, skosztowac
+consider 
+ =  okragly, kolowy, kolisty
+assign 
+ =  wprowadzic, przedstawic, przedsatwic
+assume 
+ =  oszacowac, szacunek, ocenic
+sample 
+ =  progniza, przewidywac, prognostyk
+circular 
+ =  wymagac, rzadac, popyt, wymaganie
+introduce 
+ =  dotyczyc, powiazac, wiazac, nawiazac
+estimate 
+ =  krzywa sinisoidalna
+forecast 
+ =  degradowac, ponisac, pogarszac
+demand 
+ =  rownomiernie, rowno
+relate 
+ =  wyraå¾nie, jednoznacznie, jawnie, wprost
+sine curve 
+ =  kwasny
+degrade 
+ =  dlug
+equally 
+ =  hipoteka, kredyt hipoteczny
+explicitly 
+ =  subtelny, delikatny
+sour 
+ =  kciuk
+debt 
+ =  pchowac, zakopac, chowac
+mortgage 
+ =  miecz, szpada, ostrze
+subtle 
+ =  zlosliwy, psotny, figlarny, szkodliwy
+thumb 
+ =  harmonogram, plan, zaplanowac, umowic
+bury 
+ =  uosobienie, typowy przyklad
+sword 
+ =  woman films(romance, very emontional fims)
+mischievous 
+ =  film for man ( about two good friends)
+schedule 
+ =  romantic comedy 
+epitome 
+ =  gonic, pogonic
+chick fick 
+ =  obliczeniowo, komputerowo
+bromance 
+ =  oszacowac, okreslic ilosciowo, zmierzyc, obliczyc
+romcom 
+ =  wielomian
+chase 
+ =  szeroki, bogaty, rozlegly
+computationally 
+ =  prowadzic, doprowadzic
+quantify 
+ =  oszust, nasladowczyni
+polynomial 
+ =  odwrotnie, wrecz przeciwnie
+wide 
+ =  odpowiedni, analogiczny,odnosny
+lead 
+ =  spotkanie, zgromadzenie
+imposter 
+ =  zebrac, zbierac, gromadzic
+conversely 
+ =  dolaczyc, zalaczyc
+corresponding 
+ =  powiedziec, poinformowac
+gathering 
+ =  zabytek, punkt orientacyjny, symbol
+gather 
+ =  zgelk, gwar, rozgardiasz
+enclose 
+ =  gwarny, ruchliwy
+notify 
+ =  szczery, uczciwy, rzetelny
+landmark 
+ =  spokojny, cuchy
+bustle 
+ =  tlum, publiczosc, ludzie
+bustling 
+ =  zatloczone, przeludnione
+honest 
+ =  kwestia, problem, sprawa
+peaceful 
+ =  jakosc, poziom, cecha
+crowd 
+ =  szeroki, szerszy
+crowded 
+ =  wplyw, wplywac, dzialac, ksztaltowac
+issue 
+ =  z pewnoscia, na pewno, oczywiscie, zdecydowanie
+quality 
+ =  zlozyc, przedstawic, skladac
+wider 
+ =  pewieny, okreslony, konkretny
+influence 
+ =  niezauwazalny, niedostrzegalny
+certainly 
+ =  ustalic, okreslic, decydowac
+submit 
+ =  zaliczka, rozwijac, awansowac
+certain 
+ =  oszacowac, szacowac, ocenic
+imperceptible 
+ =  przecinac sie, przecinac
+determine 
+ =  nierownosc
+advance 
+ =  nierowno
+estimate 
+ =  oznacza
+intersect 
+ =  oznaczac, sugerowac, implikowac, wskazywac
+lnequality 
+ =  dostepny
+uneven  
+ =  mimo to, obojetne
+implies 
+ =  czy, zarowno
+imply 
+ =  bez wzgledu
+accessible
+ =  pierwszeestwo, priorytet
+regardless 
+ =  warstwa, powloka
+whether 
+ =  wykorzystac, korzystac
+irrespective 
+ =  doskonale pamietam 
+precedence 
+ =  musze (powiedziec,isc,rozmawiac)
+layer 
+ =  pozbyc sie czegos
+leverage 
+ =  podkreslic (podswietlic) slowa
+i vividly remember 
+ =  rozszerzenie
+got to (tell,go,talk) 
+ =  obawa, troska, martwic sie, dotyczyc
+get rid of something 
+ =  pewnych okolicznosciach
+highlight words 
+ =  kompleksowy, wszechstronny, obszerny
+extension 
+ =  przewidywac, spodziewac, oczekiwac
+concern 
+ =  zaangazowany, zwiazany, uszestniczy
+certain circumstances 
+ =  wyglad, pojawienie, wstep
+comprehensive 
+ =  pojawic sie, wygladac, wystepowac
+anticipate 
+ =   zmienic, skorygowac
+involved 
+ =   zabezpieczyc
+appearance 
+ =  wyznac
+appear 
+ =  close, turn off
+resive 
+ =  fight, problem 
+hedge  
+ =  poszerzyc cos
+to admit 
+ =  numerous
+shut down 
+ =  odglos dzwiek 
+struggle 
+ =  zaklocic, przeszkodzic 
+to expand 
+ =  mdly
+many 
+ =  nabiac
+noise 
+ =  smazyc
+disturb 
+ =  pozywny, sycacy
+bland 
+ =  otylosc
+dairy product  
+ =  drob
+fry 
+ =  walka, problem, trudnosc, walczyc, zmagac, szarpac
+nutritous 
+ =  oddychac
+obesity 
+ =  po prostu, tylko, wlasnie, zaledwie, tuz
+poultry 
+ =  przebolec, podejsc, przejechac, pokonac
+struggle 
+ =  chociaz, jednak 
+breathe 
+ =  niepokoj, lek, obawa
+just 
+ =  doslownie
+get over 
+ =   zawroty glowy
+though 
+ =  hiperwnetylowac
+anxiety 
+ =  celowo, swiadomie, umyslnie, specjalnie
+literally 
+ =   zamiast
+dizzy 
+ =  wywolywany, przywolany
+hyperventilate 
+ =  obrot, odrocic, przewrocic
+deliberately 
+ =  rozszerzyc, przedlurzyc
+instead of 
+ =  katstrofa, nieszczescie, porazka
+invoke 
+ =  nieszczesliwy, nedzny, zalosny
+flip 
+ =  pasek, belka
+extend 
+ =  tasma
+disaster 
+ =  tylny
+miserable 
+ =  przewoz, powoz
+stripe 
+ =  przeszkadzac
+strip 
+ =  podchodzic, metoda, zblizyc
+rear 
+ =  zmiene podejscie
+carriage 
+ =  amswer
+interrupt 
+ =  probably
+approach 
+ =  prossibly
+agile approach 
+ =  outside
+reply 
+ =  poczucie czas
+likely 
+ =  monitorowac
+perhaps 
+ =  wyplywac, oddzialowywac, oddzialywac
+external 
+ =  odpowiedno, kolejno
+track of time 
+ =  pamientac, przypomniec sobie
+track 
+ =   zasadniczo, glownie
+influence 
+ =  nudny
+respectively 
+ =  przekupstwo
+recall 
+ =  lapowka
+essentially 
+ =  sztucce
+tedious 
+ =  koldra
+bribing 
+ =   trawienie pokarmu
+bribe 
+ =  illness
+cutlery 
+ =  kostka
+quilt 
+ =  rzesy
+digest food 
+ =  stworzenia
+disease 
+ =  owad, robak
+cube 
+ =  poscig, gonic
+eyelashes 
+ =  na bosaka
+creature 
+ =  odnosnik
+insect 
+ =  scenariusz
+chase 
+ =  dosc, calkiem
+barefoot 
+ =  zazwyczaj
+loopup 
+ =  dostawa
+scenario 
+ =  roznorodnosc, urozmaicenie
+fairky 
+ =  licznik, zwalczac, przeciwdzialac
+ordinarly 
+ =  przeciecie
+supply 
+ =  flexiable(wszechstronne, uniwersalne)
+variety 
+ =  odpad, marnowac, trwnoic
+counter 
+ =  makes our planet dirty
+intersection 
+ =  bronic, obronic, chronic
+versatile 
+ =  zaleznosc
+waste 
+ =  plan, program
+littering 
+ =  przelozyc, odlozyc
+defend 
+ =  doczekac
+reliance 
+ =  zacheta
+agenda 
+ =  dowod, zeznania
+postpone 
+ =  pobrany, odzyskany
+looking forward 
+ =  pozadany, zadany
+insentive 
+ =  bezwarunkowo
+evidence 
+ =  umozliwiac, wlaczyc,pozwalac
+retrieved 
+ =  podniesc, wychowywac
+desired 
+ =  wykonywac, przeprowadzic
+unconditonally 
+ =  osadzic, umiescic
+enable 
+ =  zawinac, owinac, zapakowac
+raise 
+ =  ostatni
+perform 
+ =  kluczowy, wazny
+embed 
+ =  niewielki
+wrap 
+ =  pomimo, mimo
+recent 
+ =  prognoza
+crucial 
+ =  pamietac, wspominac
+slight 
+ =  oglosic, zapowiadac
+despite 
+ =  ostatecznie, docelowo
+forecast 
+ =  ogolnokrajowy
+recall 
+ =  atrakcyjny
+announce 
+ =  calkowice, zupelnie
+ultimately 
+ =  zatrudnic
+nationwide 
+ =  rozwiazac
+appealling 
+ =  wywnioskowac
+althogether 
+ =  znany
+hire 
+ =  lodowka
+resolve 
+ =  dowiedziec sie
+infer 
+ =  smieci
+encompass 
+ =  obejmowac, objac, zawierac
+storage 
+ =  przechowywanie, magazynowac, skladowane, pamiec
+infrastructure 
+ =  infrastruktura, zaplecze
+networking 
+ =  sies, wspopraca, polaczenie
+enterprise 
+ =  przedsiebiorstwo, przeciebiorczosc, firma, korporacja
+peripheral 
+ =  obwodowy, peryferyjny
+methodologies 
+ =  metodologii, metody, metodyki
+domain 
+ =  domena, dziedzina, sferze
+coin 
+ =  ukuc, wymyslic
+advantage 
+ =  zaleta, przewaga, korzysc, plus, atut
+melt 
+ =  stopic, topic, rozpuscic
+boil 
+ =  gotowac, zagotowac, wrzec
+evaporate 
+ =  odparowac, wyparowac
+independent 
+ =  niezalesny, samodzielny
+addict 
+ =  narkoman
+addicted 
+ =  uzalezniony
+addiction 
+ =  uzaleznienie
+hardly 
+ =  ledwo, trudno 
+affectionate 
+ =  czucy, kochajacy
+purring 
+ =  mruczy, mruczenie
+stroke 
+ =  poglaskac
+curl up 
+ =  zwijac sie, kulic sie, zawinac sie
+longish 
+ =  dlugie
+whizz 
+ =  smigac
+slippery 
+ =  sliski 
+sewing machine 
+ =  maszyna do szycia
+alteration 
+ =  zmiana, przebudowa, przerobka 
+suppose 
+ =  przypuszczam, ze..., chyba, przypuscmy, ze...
+murderer 
+ =  morderca, zabojca
+ingredient 
+ =  skladnik, element, substancja
+departed 
+ =  odeszly, zmarly
+boarding 
+ =  odprawy
+delayed 
+ =  opzniony, spzniony
+gate change 
+ =  zmiana bramki
+cancelled 
+ =  anulowany
+final call 
+ =  ostatnie wezwanie
+rewarding 
+ =  wynagrodzenie
+demanding 
+ =  wymagajacy
+inspiring 
+ =  inspirujacy
+exhausting 
+ =  wyczerpujacy 
+responsible for 
+ =  odpowiedzialny za...
+in charge of 
+ =  odpowiedzialny za ..., dowodzi
+deal with 
+ =  radzic sobie z, poradzic sobie z 
+manage 
+ =  zarzadzac, kierowac, prowadzic
+fairy 
+ =  wroka, bajka, czarodziejka
+annoy 
+ =  denerwujacy, drazliwy, wkurzyc, wkurzac
+seem 
+ =  wydawac sie, widac, wygladac
+otherwise 
+ =  inaczej, w przeciwnym razie 
+rarely 
+ =  rzadko
+seldom 
+ =  rzadko, not often
+often 
+ =  frequently
+usually 
+ =  most of the time
+sometimes 
+ =  occasionally
+hardly ever 
+ =  almost never
+from time to time 
+ =  sometimes but not often
+normally 
+ =  usually
+be late 
+ =  not arrive on time
+board game 
+ =  any game in which you move objects around on a special board
+stressed 
+ =  worried and not able to relax
+nap 
+ =  a short sleep
+according 
+ =  zgodnie, zgodny
+hang out 
+ =  posiedziec, przebywac, spotykac sie
+auxiliary 
+ =  pomocniczy, dodatkowy
+emphasis 
+ =  nacisk, podkreslenia
+annoying 
+ =  wkurzajace, irytujace, uciazliwy	
+unless 
+ =  chyba, ze..., jezeli nie
+properly 
+ =  odpowiednio, prawidlowo
+wage 
+ =  wynagrodzenie, placa
+related 
+ =  powiazany
+camel(kanol) 
+ =  wielblad 
+spit 
+ =  pluc
+resentful 
+ =  urazony, obrazony, odrzucony
+harsh 
+ =  surowy, ostry, szorstki, nie mily
+quantity 
+ =  liczba, ilosc, sztuk, naklad
+tick 
+ =  kleszcz, tykac, znaczenie
+radius(rejdious) 
+ =  zasieg, promien, obszar
+multiline annotation 
+ =  adnotacja wieloliniowa
+accompany 
+ =  towarzyszyc, oprowadzic, dolaczyc
+properties 
+ =  wlasciwosci
+abbreviation 
+ =  shortcut - skrot
+refer 
+ =  odnosci sie, dolaczyc, odniesc sie
+residential 
+ =  mieszkaniowy
+steady 
+ =  staly, stabilny, ciagly
+tight 
+ =  cisany, napiety, obcisly, szczelny
+cumbersome 
+ =  uciazliwy, klopotliwy, nieporeczy
+annual cost 
+ =  roczny koszt
+lend 
+ =  pozyczac, uzyczac
+prove(pruw) 
+ =  udowadnic, okazac, dowiesc
+wisely 
+ =  madrze, rozsadnie, roztropnie
+stick to 
+ =  trzymac sie, postrzegac
+genre 
+ =  gatunek
+impact 
+ =  wplywac, wplyw, skutek, uderzenie, znaczenie, dzialanie
+reschedule 
+ =  przesunsc, umowic, przeniesc, przekladac, zmienic termin
+receive 
+ =  otrzymac, odbierac, uzyskac
+afford 
+ =  zaplacic, kupic, zapewnic
+doubt 
+ =  zwatpic, watpic 
+actively 
+ =  aktywnie, czynnie, intesywnie
+relatives(relatiws) 
+ =  krewni, bliscy
+investigate 
+ =  zbadac, badac, przeanalizowac 
+dimension 
+ =  wymiar, rozmiar
+exceeding 
+ =  przekroczenie, powyzej
+threshold 
+ =  granica, pulap
+therefore 
+ =  dlatego , zatem, zwiazku z tym
+obtain 
+ =  uzyskac, uzyskiwac, zdobyc, pozyskac, otrzymac
+whereas 
+ =  podczas gdy, tymczasem
+intend 
+ =  zamierzac, zamierzyc ( i intend to achieve my very goals at the year)
+till you drop 
+ =  do upadlego, az padniesz
+shoplifter 
+ =  zlodziej
+combination 
+ =  polaczenie, kombinacja
+advantageous 
+ =  korzystny
+advantage 
+ =  zaleta, korzysc
+excessively 
+ =  nadmiernie, zbyt, przesadnie
+spree 
+ =  szal, szalenstwo
+octopus 
+ =  osmirnica
+ostery 
+ =  ostryga
+salmon 
+ =  losos
+scallop 
+ =  przegrzebka
+prawns 
+ =  krewetki
+lobster 
+ =  homar
+fiddle 
+ =  skrzypce
+clound nine 
+ =  w siodmym niebie
+briefly 
+ =  krotko, pokrotce, zwizle, pobieznie
+arrangement 
+ =  uklad, aranzacja, umowa,ustalenie
+permission 
+ =  zgoda, pozwolenie, uprawnienie
+thinner 
+ =  chudszy
+broadcast 
+ =  transmisja, audycja, przekaz
+naughty (nadi)
+ =  niegrzeczny, nieprzyzwoity, niesforny
+loudly 
+ =  glosno, donosnie, hucznie
+exhibit 
+ =  wystawa, wystawiac, eksponat, wykazywac
+artefact 
+ =  artefakt
+antiquity 
+ =  starosytnosc, antyk
+relic 
+ =  relikt
+plinth 
+ =  postument, cokl
+mount 
+ =  uchwyt, montac, zamontowac, montowac, mocowac
+alcove 
+ =  alkowa, wneka, nisza
+torso 
+ =  tulow,tors, korpus, piers
+sculpture 
+ =  rzezba, pomnik, figura
+bust(bast) 
+ =  popiersie, biust
+mosaic 
+ =  mazaika
+elaborately 
+ =  misternie, starannie, bogato, kunsztownie
+skull 
+ =  czaszka, leb, glowa
+rival 
+ =  rywal
+extract 
+ =  wydobywac, wyodrebniac
+oppose 
+ =  sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
+figure out 
+ =   dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
+delimiter 
+ =  ogranicznik, separator
+align(alain) 
+ =  dostosowac, wyrownac, dopasowac
+realign 
+ =  przestawiac, przystroic, wyregulowac
+concatenate 
+ =  zlaczyc
+redundant 
+ =  unnessesery - zbedny, nadmierny, niepotrzebny
+misaligned rows 
+ =  nieprawidlowo wyrownane rzedy
+merge 
+ =  connect  join  important - wazny
+append 
+ =  ostrzegac, ostrzec, uprzedzic
+valid 
+ =  rok zakonczenia
+warn 
+ =  czas trwania
+year of completion 
+ =  keep  uplynsc, minal
+duration 
+ =  term - kadencja, posade
+retain 
+ =  straight (strejt)- prosty, gladki, jasny, czysty
+elapse 
+ =  poniesc, wychowac, pozyskac
+tenure  
+ =   dalej, kolejny, dodatkowy, nastepnie
+plain  
+ =  to nie tak daleko
+raise 
+ =  jowisz
+further  
+ =  oszywiscie, najwyrazniej
+that's not that far 
+ =  ewidentny, oszywisty, sjasny, widoczny
+jupiter 
+ =  dwutlenek wegla
+obviously(obwesli) 
+ =  change- zmienic, skorygowac, poprawic
+obvious 
+ =  lista zyczen, listazakupowa
+carbon dioxide(daioxaid) 
+ =  rozliczenie, rachunek
+revise  
+ =  wozek sklepowy, woz
+wishlist 
+ =  kasa
+billing 
+ =  produkt chwilowo niedosteny
+cart 
+ =  przesylka, wysylka, dostawa, transport
+checkout 
+ =  na magazynie, na stanie
+out of stock 
+ =  towar, rzeczy, towary
+shipment 
+ =  musze, chce
+in stock 
+ =   zrobic, bedziesz 
+goods 
+ =  chce, chcesz
+gotta 
+ = end  drogi
+gonna 
+ =  rozboj w bialy dzien
+wanna 
+ =  zaplacic najwyzsza cene
+high
+ =  rozbic bank
+pricey 
+ =  wskazowka, trop, slad
+daylight robbery 
+ =  nieodlaczny, wrodony
+pay top dolar 
+ =  porzadkowy
+break the bank 
+ =  dostosowac, dopasowac
+clue 
+ =  uwolnic, zwolnic
+inherent 
+ =  przesunac, przeniesc, zmienic, zmiana, dyzur
+ordinal 
+ =  odchylenie, odstepstwo
+adjust 
+ =  wzgledny, stosunkowy
+release 
+ =  rozciagnac, rozprostowac
+shift 
+ =  oznaczyc, okreslenia
+diviation 
+ =  rozwazyc, uwazac, uznac
+relative 
+ =  przypisac
+stretch 
+ =   zakladac, przyjsc, ponosic
+denote 
+ =  probka, sample, probkowac, skosztowac
+consider 
+ =  okragly, kolowy, kolisty
+assign 
+ =  wprowadzic, przedstawic, przedsatwic
+assume 
+ =  oszacowac, szacunek, ocenic
+sample 
+ =  progniza, przewidywac, prognostyk
+circular 
+ =  wymagac, rzadac, popyt, wymaganie
+introduce 
+ =  dotyczyc, powiazac, wiazac, nawiazac
+estimate 
+ =  krzywa sinisoidalna
+forecast 
+ =  degradowac, ponisac, pogarszac
+demand 
+ =  rownomiernie, rowno
+relate 
+ =  wyraå¾nie, jednoznacznie, jawnie, wprost
+sine curve 
+ =  kwasny
+degrade 
+ =  dlug
+equally 
+ =  hipoteka, kredyt hipoteczny
+explicitly 
+ =  subtelny, delikatny
+sour 
+ =  kciuk
+debt 
+ =  pchowac, zakopac, chowac
+mortgage 
+ =  miecz, szpada, ostrze
+subtle 
+ =  zlosliwy, psotny, figlarny, szkodliwy
+thumb 
+ =  harmonogram, plan, zaplanowac, umowic
+bury 
+ =  uosobienie, typowy przyklad
+sword 
+ =  woman films(romance, very emontional fims)
+mischievous 
+ =  film for man ( about two good friends)
+schedule 
+ =  romantic comedy 
+epitome 
+ =  gonic, pogonic
+chick fick 
+ =  obliczeniowo, komputerowo
+bromance 
+ =  oszacowac, okreslic ilosciowo, zmierzyc, obliczyc
+romcom 
+ =  wielomian
+chase 
+ =  szeroki, bogaty, rozlegly
+computationally 
+ =  prowadzic, doprowadzic
+quantify 
+ =  oszust, nasladowczyni
+polynomial 
+ =  odwrotnie, wrecz przeciwnie
+wide 
+ =  odpowiedni, analogiczny,odnosny
+lead 
+ =  spotkanie, zgromadzenie
+imposter 
+ =  zebrac, zbierac, gromadzic
+conversely 
+ =  dolaczyc, zalaczyc
+corresponding 
+ =  powiedziec, poinformowac
+gathering 
+ =  zabytek, punkt orientacyjny, symbol
+gather 
+ =  zgelk, gwar, rozgardiasz
+enclose 
+ =  gwarny, ruchliwy
+notify 
+ =  szczery, uczciwy, rzetelny
+landmark 
+ =  spokojny, cuchy
+bustle 
+ =  tlum, publiczosc, ludzie
+bustling 
+ =  zatloczone, przeludnione
+honest 
+ =  kwestia, problem, sprawa
+peaceful 
+ =  jakosc, poziom, cecha
+crowd 
+ =  szeroki, szerszy
+crowded 
+ =  wplyw, wplywac, dzialac, ksztaltowac
+issue 
+ =  z pewnoscia, na pewno, oczywiscie, zdecydowanie
+quality 
+ =  zlozyc, przedstawic, skladac
+wider 
+ =  pewieny, okreslony, konkretny
+influence 
+ =  niezauwazalny, niedostrzegalny
+certainly 
+ =  ustalic, okreslic, decydowac
+submit 
+ =  zaliczka, rozwijac, awansowac
+certain 
+ =  oszacowac, szacowac, ocenic
+imperceptible 
+ =  przecinac sie, przecinac
+determine 
+ =  nierownosc
+advance 
+ =  nierowno
+estimate 
+ =  oznacza
+intersect 
+ =  oznaczac, sugerowac, implikowac, wskazywac
+lnequality 
+ =  dostepny
+uneven  
+ =  mimo to, obojetne
+implies 
+ =  czy, zarowno
+imply 
+ =  bez wzgledu
+accessible
+ =  pierwszeestwo, priorytet
+regardless 
+ =  warstwa, powloka
+whether 
+ =  wykorzystac, korzystac
+irrespective 
+ =  doskonale pamietam 
+precedence 
+ =  musze (powiedziec,isc,rozmawiac)
+layer 
+ =  pozbyc sie czegos
+leverage 
+ =  podkreslic (podswietlic) slowa
+i vividly remember 
+ =  rozszerzenie
+got to (tell,go,talk) 
+ =  obawa, troska, martwic sie, dotyczyc
+get rid of something 
+ =  pewnych okolicznosciach
+highlight words 
+ =  kompleksowy, wszechstronny, obszerny
+extension 
+ =  przewidywac, spodziewac, oczekiwac
+concern 
+ =  zaangazowany, zwiazany, uszestniczy
+certain circumstances 
+ =  wyglad, pojawienie, wstep
+comprehensive 
+ =  pojawic sie, wygladac, wystepowac
+anticipate 
+ =   zmienic, skorygowac
+involved 
+ =   zabezpieczyc
+appearance 
+ =  wyznac
+appear 
+ =  close, turn off
+resive 
+ =  fight, problem 
+hedge  
+ =  poszerzyc cos
+to admit 
+ =  numerous
+shut down 
+ =  odglos dzwiek 
+struggle 
+ =  zaklocic, przeszkodzic 
+to expand 
+ =  mdly
+many 
+ =  nabiac
+noise 
+ =  smazyc
+disturb 
+ =  pozywny, sycacy
+bland 
+ =  otylosc
+dairy product  
+ =  drob
+fry 
+ =  walka, problem, trudnosc, walczyc, zmagac, szarpac
+nutritous 
+ =  oddychac
+obesity 
+ =  po prostu, tylko, wlasnie, zaledwie, tuz
+poultry 
+ =  przebolec, podejsc, przejechac, pokonac
+struggle 
+ =  chociaz, jednak 
+breathe 
+ =  niepokoj, lek, obawa
+just 
+ =  doslownie
+get over 
+ =   zawroty glowy
+though 
+ =  hiperwnetylowac
+anxiety 
+ =  celowo, swiadomie, umyslnie, specjalnie
+literally 
+ =   zamiast
+dizzy 
+ =  wywolywany, przywolany
+hyperventilate 
+ =  obrot, odrocic, przewrocic
+deliberately 
+ =  rozszerzyc, przedlurzyc
+instead of 
+ =  katstrofa, nieszczescie, porazka
+invoke 
+ =  nieszczesliwy, nedzny, zalosny
+flip 
+ =  pasek, belka
+extend 
+ =  tasma
+disaster 
+ =  tylny
+miserable 
+ =  przewoz, powoz
+stripe 
+ =  przeszkadzac
+strip 
+ =  podchodzic, metoda, zblizyc
+rear 
+ =  zmiene podejscie
+carriage 
+ =  amswer
+interrupt 
+ =  probably
+approach 
+ =  prossibly
+agile approach 
+ =  outside
+reply 
+ =  poczucie czas
+likely 
+ =  monitorowac
+perhaps 
+ =  wyplywac, oddzialowywac, oddzialywac
+external 
+ =  odpowiedno, kolejno
+track of time 
+ =  pamientac, przypomniec sobie
+track 
+ =   zasadniczo, glownie
+influence 
+ =  nudny
+respectively 
+ =  przekupstwo
+recall 
+ =  lapowka
+essentially 
+ =  sztucce
+tedious 
+ =  koldra
+bribing 
+ =   trawienie pokarmu
+bribe 
+ =  illness
+cutlery 
+ =  kostka
+quilt 
+ =  rzesy
+digest food 
+ =  stworzenia
+disease 
+ =  owad, robak
+cube 
+ =  poscig, gonic
+eyelashes 
+ =  na bosaka
+creature 
+ =  odnosnik
+insect 
+ =  scenariusz
+chase 
+ =  dosc, calkiem
+barefoot 
+ =  zazwyczaj
+loopup 
+ =  dostawa
+scenario 
+ =  roznorodnosc, urozmaicenie
+fairky 
+ =  licznik, zwalczac, przeciwdzialac
+ordinarly 
+ =  przeciecie
+supply 
+ =  flexiable(wszechstronne, uniwersalne)
+variety 
+ =  odpad, marnowac, trwnoic
+counter 
+ =  makes our planet dirty
+intersection 
+ =  bronic, obronic, chronic
+versatile 
+ =  zaleznosc
+waste 
+ =  plan, program
+littering 
+ =  przelozyc, odlozyc
+defend 
+ =  doczekac
+reliance 
+ =  zacheta
+agenda 
+ =  dowod, zeznania
+postpone 
+ =  pobrany, odzyskany
+looking forward 
+ =  pozadany, zadany
+insentive 
+ =  bezwarunkowo
+evidence 
+ =  umozliwiac, wlaczyc,pozwalac
+retrieved 
+ =  podniesc, wychowywac
+desired 
+ =  wykonywac, przeprowadzic
+unconditonally 
+ =  osadzic, umiescic
+enable 
+ =  zawinac, owinac, zapakowac
+raise 
+ =  ostatni
+perform 
+ =  kluczowy, wazny
+embed 
+ =  niewielki
+wrap 
+ =  pomimo, mimo
+recent 
+ =  prognoza
+crucial 
+ =  pamietac, wspominac
+slight 
+ =  oglosic, zapowiadac
+despite 
+ =  ostatecznie, docelowo
+forecast 
+ =  ogolnokrajowy
+recall 
+ =  atrakcyjny
+announce 
+ =  calkowice, zupelnie
+ultimately 
+ =  zatrudnic
+nationwide 
+ =  rozwiazac
+appealling 
+ =  wywnioskowac
+althogether 
+ =  znany
+hire 
+ =  lodowka
+resolve 
+ =  dowiedziec sie
+infer 
+ =  smieci

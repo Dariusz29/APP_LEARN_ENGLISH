@@ -1,0 +1,297 @@
+Encompass - obejmowac, objac, zawierac
+Storage - przechowywanie, magazynowac, skladowane, pamiec
+Infrastructure - infrastruktura, zaplecze
+Networking - sies, wspopraca, polaczenie
+Enterprise - przedsiebiorstwo, przeciebiorczosc, firma, korporacja
+Peripheral - obwodowy, peryferyjny
+Methodologies - metodologii, metody, metodyki
+Domain - domena, dziedzina, sferze
+Coin - ukuc, wymyslic
+Advantage - zaleta, przewaga, korzysc, plus, atut
+Melt - stopic, topic, rozpuscic
+Boil - gotowac, zagotowac, wrzec
+Evaporate - odparowac, wyparowac
+Independent - niezalesny, samodzielny
+Addict - narkoman
+Addicted - uzalezniony
+Addiction - uzaleznienie
+Hardly - ledwo, trudno 
+Affectionate - czucy, kochajacy
+Purring - mruczy, mruczenie
+Stroke - poglaskac
+Curl up - zwijac sie, kulic sie, zawinac sie
+Longish - dlugie
+Whizz - smigac
+Slippery - sliski 
+Sewing machine - maszyna do szycia
+Alteration - zmiana, przebudowa, przerobka 
+Suppose - przypuszczam, ze..., chyba, przypuscmy, ze...
+Murderer - morderca, zabojca
+Ingredient - skladnik, element, substancja
+Departed - odeszly, zmarly
+Boarding - odprawy
+Delayed - opzniony, spzniony
+Gate change - zmiana bramki
+Cancelled - anulowany
+Final call - ostatnie wezwanie
+Rewarding - wynagrodzenie
+Demanding - wymagajacy
+Inspiring - inspirujacy
+Exhausting - wyczerpujacy 
+Responsible for - odpowiedzialny za...
+In charge of - odpowiedzialny za ..., dowodzi
+Deal with - radzic sobie z, poradzic sobie z 
+Manage - zarzadzac, kierowac, prowadzic
+Fairy - wroka, bajka, czarodziejka
+Annoy - denerwujacy, drazliwy, wkurzyc, wkurzac
+Seem - wydawac sie, widac, wygladac
+Otherwise - inaczej, w przeciwnym razie 
+Rarely - rzadko
+Seldom - rzadko, not often
+Often = frequently
+Usually = most of the time
+Sometimes = occasionally
+Hardly ever = almost never
+From time to time = sometimes but not often
+Normally = usually
+Be late = not arrive on time
+Board game - any game in which you move objects around on a special board
+Stressed - worried and not able to relax
+Nap - a short sleep
+According - zgodnie, zgodny
+Hang out - posiedziec, przebywac, spotykac sie
+Auxiliary - pomocniczy, dodatkowy
+Emphasis - nacisk, podkreslenia
+Annoying - wkurzajace, irytujace, uciazliwy	
+Unless - chyba, ze..., jezeli nie
+Properly - odpowiednio, prawidlowo
+Wage - wynagrodzenie, placa
+Related - powiazany
+Camel(kanol) - wielblad 
+Spit - pluc
+Resentful - urazony, obrazony, odrzucony
+Harsh - surowy, ostry, szorstki, nie mily
+Quantity - liczba, ilosc, sztuk, naklad
+Tick - kleszcz, tykac, znaczenie
+Radius(rejdious) - zasieg, promien, obszar
+Multiline annotation - adnotacja wieloliniowa
+Accompany - towarzyszyc, oprowadzic, dolaczyc
+Properties - wlasciwosci
+Abbreviation = shortcut - skrot
+Refer - odnosci sie, dolaczyc, odniesc sie
+Residential - mieszkaniowy
+Steady - staly, stabilny, ciagly
+Tight - cisany, napiety, obcisly, szczelny
+Cumbersome - uciazliwy, klopotliwy, nieporeczy
+Annual cost - roczny koszt
+Lend - pozyczac, uzyczac
+Prove(Pruw) - udowadnic, okazac, dowiesc
+Wisely - madrze, rozsadnie, roztropnie
+Stick to - trzymac sie, postrzegac
+Genre - gatunek
+Impact - wplywac, wplyw, skutek, uderzenie, znaczenie, dzialanie
+Reschedule - przesunsc, umowic, przeniesc, przekladac, zmienic termin
+Receive - otrzymac, odbierac, uzyskac
+Afford - zaplacic, kupic, zapewnic
+Doubt - zwatpic, watpic 
+Actively - aktywnie, czynnie, intesywnie
+Relatives(relatiws) - krewni, bliscy
+Investigate - zbadac, badac, przeanalizowac 
+Dimension - wymiar, rozmiar
+Exceeding - przekroczenie, powyzej
+Threshold - granica, pulap
+Therefore - dlatego , zatem, zwiazku z tym
+Obtain - uzyskac, uzyskiwac, zdobyc, pozyskac, otrzymac
+Whereas - podczas gdy, tymczasem
+Intend - zamierzac, zamierzyc ( i intend to achieve my very goals at the year)
+Till you drop - do upadlego, az padniesz
+Shoplifter - zlodziej
+Combination - polaczenie, kombinacja
+Advantageous - korzystny
+Advantage - zaleta, korzysc
+Excessively - nadmiernie, zbyt, przesadnie
+Spree - szal, szalenstwo
+OCTOPUS - osmirnica
+Ostery - ostryga
+Salmon - losos
+Scallop - przegrzebka
+Prawns - krewetki
+Lobster - homar
+Fiddle - skrzypce
+Clound nine - w siodmym niebie
+Briefly - krotko, pokrotce, zwizle, pobieznie
+Arrangement - uklad, aranzacja, umowa,ustalenie
+Permission - zgoda, pozwolenie, uprawnienie
+Thinner - chudszy
+Broadcast - transmisja, audycja, przekaz
+Naughty (nadi)- niegrzeczny, nieprzyzwoity, niesforny
+Loudly - glosno, donosnie, hucznie
+Exhibit - wystawa, wystawiac, eksponat, wykazywac
+Artefact - artefakt
+Antiquity - starosytnosc, antyk
+Relic - relikt
+Plinth - postument, cokl
+Mount - uchwyt, montac, zamontowac, montowac, mocowac
+Alcove - alkowa, wneka, nisza
+Torso - tulow,tors, korpus, piers
+Sculpture - rzezba, pomnik, figura
+Bust(bast) - popiersie, biust
+Mosaic - mazaika
+Elaborately - misternie, starannie, bogato, kunsztownie
+Skull - czaszka, leb, glowa
+Rival - rywal
+Extract - wydobywac, wyodrebniac
+Oppose - sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
+Figure out -  dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
+Delimiter - ogranicznik, separator
+Align(alain) - dostosowac, wyrownac, dopasowac
+Realign - przestawiac, przystroic, wyregulowac
+Concatenate - zlaczyc
+Redundant = unnessesery - zbedny, nadmierny, niepotrzebny
+Misaligned Rows - nieprawidlowo wyrownane rzedy
+Merge = connect = combine - polaczyc, laczyc, scalic
+Append = join = attach = include- dolaczyc, dodac
+Valid = important - wazny
+Warn - ostrzegac, ostrzec, uprzedzic
+Year of completion - rok zakonczenia
+Duration - czas trwania
+Retain = keep = maintain - zachowywac, przechowywac, zatrzymac
+Elapse - uplynsc, minal
+Tenure  = term - kadencja, posade
+Plain  = straight (strejt)- prosty, gladki, jasny, czysty
+Raise - poniesc, wychowac, pozyskac
+Further  -  dalej, kolejny, dodatkowy, nastepnie
+That's not that far - to nie tak daleko
+Jupiter - jowisz
+Obviously(obwesli) - oszywiscie, najwyrazniej
+Obvious - ewidentny, oszywisty, sjasny, widoczny
+Carbon dioxide(daioxaid) - dwutlenek wegla
+Revise  = change- zmienic, skorygowac, poprawic
+Wishlist - lista zyczen, listazakupowa
+Billing - rozliczenie, rachunek
+Cart = wozek sklepowy, woz
+Checkout - kasa
+Out of stock - produkt chwilowo niedosteny
+Shipment - przesylka, wysylka, dostawa, transport
+In stock - na magazynie, na stanie
+Goods - towar, rzeczy, towary
+Gotta - musze, chce
+Gonna -  zrobic, bedziesz 
+Wanna - chce, chcesz
+High-end - wysokiej klasy
+Pricey - drogi
+Daylight robbery - rozboj w bialy dzien
+Pay top dolar - zaplacic najwyzsza cene
+Break the bank - rozbic bank
+Clue - wskazowka, trop, slad
+Inherent - nieodlaczny, wrodony
+Ordinal - porzadkowy
+Adjust - dostosowac, dopasowac
+Release - uwolnic, zwolnic
+Shift - przesunac, przeniesc, zmienic, zmiana, dyzur
+Diviation - odchylenie, odstepstwo
+Relative - wzgledny, stosunkowy
+Stretch - rozciagnac, rozprostowac
+Denote - oznaczyc, okreslenia
+Consider - rozwazyc, uwazac, uznac
+Assign - przypisac
+Assume -  zakladac, przyjsc, ponosic
+Sample - probka, sample, probkowac, skosztowac
+Circular - okragly, kolowy, kolisty
+Introduce - wprowadzic, przedstawic, przedsatwic
+Estimate - oszacowac, szacunek, ocenic
+Forecast - progniza, przewidywac, prognostyk
+Demand - wymagac, rzadac, popyt, wymaganie
+Relate - dotyczyc, powiazac, wiazac, nawiazac
+Sine curve - krzywa sinisoidalna
+Degrade - degradowac, ponisac, pogarszac
+Equally - rownomiernie, rowno
+Explicitly - wyrażnie, jednoznacznie, jawnie, wprost
+Sour - kwasny
+Debt - dlug
+Mortgage - hipoteka, kredyt hipoteczny
+Subtle - subtelny, delikatny
+Thumb - kciuk
+Bury - pchowac, zakopac, chowac
+Sword - miecz, szpada, ostrze
+Mischievous - zlosliwy, psotny, figlarny, szkodliwy
+Schedule - harmonogram, plan, zaplanowac, umowic
+Epitome - uosobienie, typowy przyklad
+Chick fick - woman films(romance, very emontional fims)
+Bromance - film for man ( about two good friends)
+Romcom - romantic comedy 
+Chase - gonic, pogonic
+Computationally - obliczeniowo, komputerowo
+Quantify - oszacowac, okreslic ilosciowo, zmierzyc, obliczyc
+Polynomial - wielomian
+Wide - szeroki, bogaty, rozlegly
+Lead - prowadzic, doprowadzic
+Imposter - oszust, nasladowczyni
+Conversely - odwrotnie, wrecz przeciwnie
+Corresponding - odpowiedni, analogiczny,odnosny
+Gathering - spotkanie, zgromadzenie
+Gather - zebrac, zbierac, gromadzic
+Enclose - dolaczyc, zalaczyc
+Notify - powiedziec, poinformowac
+Landmark - zabytek, punkt orientacyjny, symbol
+Bustle - zgelk, gwar, rozgardiasz
+Bustling - gwarny, ruchliwy
+Honest - szczery, uczciwy, rzetelny
+Peaceful - spokojny, cuchy
+Crowd - tlum, publiczosc, ludzie
+Crowded - zatloczone, przeludnione
+Issue - kwestia, problem, sprawa
+Quality - jakosc, poziom, cecha
+Wider - szeroki, szerszy
+Influence - wplyw, wplywac, dzialac, ksztaltowac
+Certainly - z pewnoscia, na pewno, oczywiscie, zdecydowanie
+Submit - zlozyc, przedstawic, skladac
+Certain - pewieny, okreslony, konkretny
+Imperceptible - niezauwazalny, niedostrzegalny
+Determine - ustalic, okreslic, decydowac
+Advance - zaliczka, rozwijac, awansowac
+Estimate - oszacowac, szacowac, ocenic
+Intersect - przecinac sie, przecinac
+Lnequality - nierownosc
+Uneven  - nierowno
+Implies - oznacza
+Imply - oznaczac, sugerowac, implikowac, wskazywac
+Accessible- dostepny
+Regardless - mimo to, obojetne
+Whether - czy, zarowno
+Irrespective - bez wzgledu
+Precedence - pierwszeestwo, priorytet
+Layer - warstwa, powloka
+Leverage - wykorzystac, korzystac
+I vividly remember - doskonale pamietam 
+Got to (tell,go,talk) - musze (powiedziec,isc,rozmawiac)
+Get rid of something - pozbyc sie czegos
+It is identical copy my work or my shoes 
+Highlight words - podkreslic (podswietlic) slowa
+I rejected good job offer 
+Extension - rozszerzenie
+Concern - obawa, troska, martwic sie, dotyczyc
+Certain circumstances - pewnych okolicznosciach
+Comprehensive - kompleksowy, wszechstronny, obszerny
+Anticipate - przewidywac, spodziewac, oczekiwac
+Involved - zaangazowany, zwiazany, uszestniczy
+Appearance - wyglad, pojawienie, wstep
+Appear - pojawic sie, wygladac, wystepowac
+Resive -  zmienic, skorygowac
+Hedge  -  zabezpieczyc
+To admit = wyznac
+shut down = close, turn off
+struggle = fight, problem 
+To expand - poszerzyc cos
+Many = numerous
+Noise - odglos dzwiek 
+Disturb - zaklocic, przeszkodzic 
+I feed my dog two times a day 
+Bland - mdly
+Dairy product  - nabiac
+Fry - smazyc
+Nutritous - pozywny, sycacy
+Obesity - otylosc
+Poultry - drob
+
+
