@@ -5,7 +5,7 @@ word_in_eng = open('data_to_learn\\word_in_eng.txt',"w")
 word_answer = open('data_to_learn\\word_answer.txt','w')
 phases_in_eng = open('data_to_learn\\phases_in_eng.txt','w')
 phases_answer = open('data_to_learn\\phases_answer.txt', 'w')
-#C:\Users\dariu\Desktop\my_projects\App_learn_words\source_data\words_tutlo.txt
+
 word_eng = []
 word_ans = []
 phases_eng = []
