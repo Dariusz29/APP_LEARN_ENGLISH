@@ -1,0 +1,388 @@
+ obejmowac, objac, zawierac
+ przechowywanie, magazynowac, skladowane, pamiec
+ infrastruktura, zaplecze
+ sies, wspopraca, polaczenie
+ przedsiebiorstwo, przeciebiorczosc, firma, korporacja
+ obwodowy, peryferyjny
+ metodologii, metody, metodyki
+ domena, dziedzina, sferze
+ ukuc, wymyslic
+ zaleta, przewaga, korzysc, plus, atut
+ stopic, topic, rozpuscic
+ gotowac, zagotowac, wrzec
+ odparowac, wyparowac
+ niezalesny, samodzielny
+ narkoman
+ uzalezniony
+ uzaleznienie
+ ledwo, trudno 
+ czucy, kochajacy
+ mruczy, mruczenie
+ poglaskac
+ zwijac sie, kulic sie, zawinac sie
+ dlugie
+ smigac
+ sliski 
+ maszyna do szycia
+ zmiana, przebudowa, przerobka 
+ przypuszczam, ze..., chyba, przypuscmy, ze...
+ morderca, zabojca
+ skladnik, element, substancja
+ odeszly, zmarly
+ odprawy
+ opzniony, spzniony
+ zmiana bramki
+ anulowany
+ ostatnie wezwanie
+ wynagrodzenie
+ wymagajacy
+ inspirujacy
+ wyczerpujacy 
+ odpowiedzialny za...
+ odpowiedzialny za ..., dowodzi
+ radzic sobie z, poradzic sobie z 
+ zarzadzac, kierowac, prowadzic
+ wroka, bajka, czarodziejka
+ denerwujacy, drazliwy, wkurzyc, wkurzac
+ wydawac sie, widac, wygladac
+ inaczej, w przeciwnym razie 
+ rzadko
+ rzadko, not often
+ frequently
+ most of the time
+ occasionally
+ almost never
+ sometimes but not often
+ usually
+ not arrive on time
+ any game in which you move objects around on a special board
+ worried and not able to relax
+ a short sleep
+ zgodnie, zgodny
+ posiedziec, przebywac, spotykac sie
+ pomocniczy, dodatkowy
+ nacisk, podkreslenia
+ wkurzajace, irytujace, uciazliwy	
+ chyba, ze..., jezeli nie
+ odpowiednio, prawidlowo
+ wynagrodzenie, placa
+ powiazany
+ wielblad 
+ pluc
+ urazony, obrazony, odrzucony
+ surowy, ostry, szorstki, nie mily
+ liczba, ilosc, sztuk, naklad
+ kleszcz, tykac, znaczenie
+ zasieg, promien, obszar
+ adnotacja wieloliniowa
+ towarzyszyc, oprowadzic, dolaczyc
+ wlasciwosci
+ shortcut - skrot
+ odnosci sie, dolaczyc, odniesc sie
+ mieszkaniowy
+ staly, stabilny, ciagly
+ cisany, napiety, obcisly, szczelny
+ uciazliwy, klopotliwy, nieporeczy
+ roczny koszt
+ pozyczac, uzyczac
+ udowadnic, okazac, dowiesc
+ madrze, rozsadnie, roztropnie
+ trzymac sie, postrzegac
+ gatunek
+ wplywac, wplyw, skutek, uderzenie, znaczenie, dzialanie
+ przesunsc, umowic, przeniesc, przekladac, zmienic termin
+ otrzymac, odbierac, uzyskac
+ zaplacic, kupic, zapewnic
+ zwatpic, watpic 
+ aktywnie, czynnie, intesywnie
+ krewni, bliscy
+ zbadac, badac, przeanalizowac 
+ wymiar, rozmiar
+ przekroczenie, powyzej
+ granica, pulap
+ dlatego , zatem, zwiazku z tym
+ uzyskac, uzyskiwac, zdobyc, pozyskac, otrzymac
+ podczas gdy, tymczasem
+ zamierzac, zamierzyc ( i intend to achieve my very goals at the year)
+ do upadlego, az padniesz
+ zlodziej
+ polaczenie, kombinacja
+ korzystny
+ zaleta, korzysc
+ nadmiernie, zbyt, przesadnie
+ szal, szalenstwo
+ osmirnica
+ ostryga
+ losos
+ przegrzebka
+ krewetki
+ homar
+ skrzypce
+ w siodmym niebie
+ krotko, pokrotce, zwizle, pobieznie
+ uklad, aranzacja, umowa,ustalenie
+ zgoda, pozwolenie, uprawnienie
+ chudszy
+ transmisja, audycja, przekaz
+ niegrzeczny, nieprzyzwoity, niesforny
+ glosno, donosnie, hucznie
+ wystawa, wystawiac, eksponat, wykazywac
+ artefakt
+ starosytnosc, antyk
+ relikt
+ postument, cokl
+ uchwyt, montac, zamontowac, montowac, mocowac
+ alkowa, wneka, nisza
+ tulow,tors, korpus, piers
+ rzezba, pomnik, figura
+ popiersie, biust
+ mazaika
+ misternie, starannie, bogato, kunsztownie
+ czaszka, leb, glowa
+ rywal
+ wydobywac, wyodrebniac
+ sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
+  dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
+ ogranicznik, separator
+ dostosowac, wyrownac, dopasowac
+ przestawiac, przystroic, wyregulowac
+ zlaczyc
+ unnessesery - zbedny, nadmierny, niepotrzebny
+ nieprawidlowo wyrownane rzedy
+ connect  join  important - wazny
+ ostrzegac, ostrzec, uprzedzic
+ rok zakonczenia
+ czas trwania
+ keep  uplynsc, minal
+ term - kadencja, posade
+ straight (strejt)- prosty, gladki, jasny, czysty
+ poniesc, wychowac, pozyskac
+  dalej, kolejny, dodatkowy, nastepnie
+ to nie tak daleko
+ jowisz
+ oszywiscie, najwyrazniej
+ ewidentny, oszywisty, sjasny, widoczny
+ dwutlenek wegla
+ change- zmienic, skorygowac, poprawic
+ lista zyczen, listazakupowa
+ rozliczenie, rachunek
+ wozek sklepowy, woz
+ kasa
+ produkt chwilowo niedosteny
+ przesylka, wysylka, dostawa, transport
+ na magazynie, na stanie
+ towar, rzeczy, towary
+ musze, chce
+  zrobic, bedziesz 
+ chce, chcesz
+end  drogi
+ rozboj w bialy dzien
+ zaplacic najwyzsza cene
+ rozbic bank
+ wskazowka, trop, slad
+ nieodlaczny, wrodony
+ porzadkowy
+ dostosowac, dopasowac
+ uwolnic, zwolnic
+ przesunac, przeniesc, zmienic, zmiana, dyzur
+ odchylenie, odstepstwo
+ wzgledny, stosunkowy
+ rozciagnac, rozprostowac
+ oznaczyc, okreslenia
+ rozwazyc, uwazac, uznac
+ przypisac
+  zakladac, przyjsc, ponosic
+ probka, sample, probkowac, skosztowac
+ okragly, kolowy, kolisty
+ wprowadzic, przedstawic, przedsatwic
+ oszacowac, szacunek, ocenic
+ progniza, przewidywac, prognostyk
+ wymagac, rzadac, popyt, wymaganie
+ dotyczyc, powiazac, wiazac, nawiazac
+ krzywa sinisoidalna
+ degradowac, ponisac, pogarszac
+ rownomiernie, rowno
+ wyraå¾nie, jednoznacznie, jawnie, wprost
+ kwasny
+ dlug
+ hipoteka, kredyt hipoteczny
+ subtelny, delikatny
+ kciuk
+ pchowac, zakopac, chowac
+ miecz, szpada, ostrze
+ zlosliwy, psotny, figlarny, szkodliwy
+ harmonogram, plan, zaplanowac, umowic
+ uosobienie, typowy przyklad
+ woman films(romance, very emontional fims)
+ film for man ( about two good friends)
+ romantic comedy 
+ gonic, pogonic
+ obliczeniowo, komputerowo
+ oszacowac, okreslic ilosciowo, zmierzyc, obliczyc
+ wielomian
+ szeroki, bogaty, rozlegly
+ prowadzic, doprowadzic
+ oszust, nasladowczyni
+ odwrotnie, wrecz przeciwnie
+ odpowiedni, analogiczny,odnosny
+ spotkanie, zgromadzenie
+ zebrac, zbierac, gromadzic
+ dolaczyc, zalaczyc
+ powiedziec, poinformowac
+ zabytek, punkt orientacyjny, symbol
+ zgelk, gwar, rozgardiasz
+ gwarny, ruchliwy
+ szczery, uczciwy, rzetelny
+ spokojny, cuchy
+ tlum, publiczosc, ludzie
+ zatloczone, przeludnione
+ kwestia, problem, sprawa
+ jakosc, poziom, cecha
+ szeroki, szerszy
+ wplyw, wplywac, dzialac, ksztaltowac
+ z pewnoscia, na pewno, oczywiscie, zdecydowanie
+ zlozyc, przedstawic, skladac
+ pewieny, okreslony, konkretny
+ niezauwazalny, niedostrzegalny
+ ustalic, okreslic, decydowac
+ zaliczka, rozwijac, awansowac
+ oszacowac, szacowac, ocenic
+ przecinac sie, przecinac
+ nierownosc
+ nierowno
+ oznacza
+ oznaczac, sugerowac, implikowac, wskazywac
+ dostepny
+ mimo to, obojetne
+ czy, zarowno
+ bez wzgledu
+ pierwszeestwo, priorytet
+ warstwa, powloka
+ wykorzystac, korzystac
+ doskonale pamietam 
+ musze (powiedziec,isc,rozmawiac)
+ pozbyc sie czegos
+ podkreslic (podswietlic) slowa
+ rozszerzenie
+ obawa, troska, martwic sie, dotyczyc
+ pewnych okolicznosciach
+ kompleksowy, wszechstronny, obszerny
+ przewidywac, spodziewac, oczekiwac
+ zaangazowany, zwiazany, uszestniczy
+ wyglad, pojawienie, wstep
+ pojawic sie, wygladac, wystepowac
+  zmienic, skorygowac
+  zabezpieczyc
+ wyznac
+ close, turn off
+ fight, problem 
+ poszerzyc cos
+ numerous
+ odglos dzwiek 
+ zaklocic, przeszkodzic 
+ mdly
+ nabiac
+ smazyc
+ pozywny, sycacy
+ otylosc
+ drob
+ walka, problem, trudnosc, walczyc, zmagac, szarpac
+ oddychac
+ po prostu, tylko, wlasnie, zaledwie, tuz
+ przebolec, podejsc, przejechac, pokonac
+ chociaz, jednak 
+ niepokoj, lek, obawa
+ doslownie
+  zawroty glowy
+ hiperwnetylowac
+ celowo, swiadomie, umyslnie, specjalnie
+  zamiast
+ wywolywany, przywolany
+ obrot, odrocic, przewrocic
+ rozszerzyc, przedlurzyc
+ katstrofa, nieszczescie, porazka
+ nieszczesliwy, nedzny, zalosny
+ pasek, belka
+ tasma
+ tylny
+ przewoz, powoz
+ przeszkadzac
+ podchodzic, metoda, zblizyc
+ zmiene podejscie
+ amswer
+ probably
+ prossibly
+ outside
+ poczucie czas
+ monitorowac
+ wyplywac, oddzialowywac, oddzialywac
+ odpowiedno, kolejno
+ pamientac, przypomniec sobie
+  zasadniczo, glownie
+ nudny
+ przekupstwo
+ lapowka
+ sztucce
+ koldra
+  trawienie pokarmu
+ illness
+ kostka
+ rzesy
+ stworzenia
+ owad, robak
+ poscig, gonic
+ na bosaka
+ odnosnik
+ scenariusz
+ dosc, calkiem
+ zazwyczaj
+ dostawa
+ roznorodnosc, urozmaicenie
+ licznik, zwalczac, przeciwdzialac
+ przeciecie
+ flexiable(wszechstronne, uniwersalne)
+ odpad, marnowac, trwnoic
+ makes our planet dirty
+ bronic, obronic, chronic
+ zaleznosc
+ plan, program
+ przelozyc, odlozyc
+ doczekac
+ zacheta
+ dowod, zeznania
+ pobrany, odzyskany
+ pozadany, zadany
+ bezwarunkowo
+ umozliwiac, wlaczyc,pozwalac
+ podniesc, wychowywac
+ wykonywac, przeprowadzic
+ osadzic, umiescic
+ zawinac, owinac, zapakowac
+ ostatni
+ kluczowy, wazny
+ niewielki
+ pomimo, mimo
+ prognoza
+ pamietac, wspominac
+ oglosic, zapowiadac
+ ostatecznie, docelowo
+ ogolnokrajowy
+ atrakcyjny
+ calkowice, zupelnie
+ zatrudnic
+ rozwiazac
+ wywnioskowac
+ znany
+ lodowka
+ dowiedziec sie
+ smieci
+ trzymac, wsadzic
+ prozny, daremny
+ taksowka, kabina,taxi
+ skurcz, spadek
+ walka
+ sztuki walki
+ kodzyskac, pobierac, zdobyc
+ trun back, return
+ cofnac, naprawic
+ slabo, zle

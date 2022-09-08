@@ -1,5 +1,5 @@
 # main file for my app to learn words in english
-from data_word import store_word as sw
+from functions.data_word import store_word as sw
 
 
 

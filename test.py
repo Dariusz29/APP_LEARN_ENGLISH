@@ -1,5 +1,5 @@
 #ask user about kind of which you choice 
-from data_word import store_word as sw
+from functions.data_word import store_word as sw
 import random
 
 
@@ -74,9 +74,9 @@ class TEST():
     def start_test_word(i):
 
         sw('w')
-        with open('word_in_eng.txt', 'r') as ww:
+        with open('data_to_learn\\word_in_eng.txt', 'r') as ww:
             ww = list(ww)
-        with open('word_answer.txt') as an:
+        with open('data_to_learn\\word_answer.txt', 'r') as an:
             an = list(an)
 
 
@@ -85,7 +85,8 @@ class TEST():
             num_ww = ww.index(words)
             num_an = num_ww
             answer = input(f'Type translation {words} = ')    
-                 
+            print(num_ww)
+            print(num_an)      
         
             word = {}
             ans = {}
