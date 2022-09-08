@@ -94,3 +94,7 @@ cab = taksowka, kabina,taxi
 conttraction  = skurcz, spadek
 martial = walka
 martial arts = sztuki walki
+retrieve = kodzyskac, pobierac, zdobyc
+revert = trun back, return
+undo = cofnac, naprawic
+poorly = slabo, zle
