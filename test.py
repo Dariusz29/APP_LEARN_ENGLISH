@@ -41,7 +41,7 @@ class TEST():
     def start_test_phase(i):
 
         sw('p')
-        with open('phases_in_eng.txt', 'r') as pp:
+        with open('data_to_learn\\phases_in_eng.txt', 'r') as pp:
             pp = list(pp)
 
         for i in range(i):
@@ -119,8 +119,7 @@ class TEST():
                 print(f'Create sentance with {words}')
                 sentence = input("\n...")
                 sen.append(sentence)
-
-                
+    
             else:
                 print("""
                 Bad answer
