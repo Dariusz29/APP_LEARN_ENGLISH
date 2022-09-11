@@ -3,6 +3,7 @@ from functions.data_word import store_word as sw
 
 
 
+
 sw("w")
 sw("p")
 

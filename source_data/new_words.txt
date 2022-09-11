@@ -99,5 +99,3 @@ revert = trun back, return
 undo = cofnac, naprawic
 poorly = slabo, zle
 determine  = okreslic, ustalic
-
-
