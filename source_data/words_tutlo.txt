@@ -95,7 +95,7 @@ Receive - otrzymac, odbierac, uzyskac
 Afford - zaplacic, kupic, zapewnic
 Doubt - zwatpic, watpic 
 Actively - aktywnie, czynnie, intesywnie
-Relatives(relatiws) - krewni, bliscy
+Relatives - krewni, bliscy
 Investigate - zbadac, badac, przeanalizowac 
 Dimension - wymiar, rozmiar
 Exceeding - przekroczenie, powyzej
@@ -124,7 +124,7 @@ Arrangement - uklad, aranzacja, umowa,ustalenie
 Permission - zgoda, pozwolenie, uprawnienie
 Thinner - chudszy
 Broadcast - transmisja, audycja, przekaz
-Naughty (nadi)- niegrzeczny, nieprzyzwoity, niesforny
+Naughty - niegrzeczny, nieprzyzwoity, niesforny
 Loudly - glosno, donosnie, hucznie
 Exhibit - wystawa, wystawiac, eksponat, wykazywac
 Artefact - artefakt
@@ -135,7 +135,7 @@ Mount - uchwyt, montac, zamontowac, montowac, mocowac
 Alcove - alkowa, wneka, nisza
 Torso - tulow,tors, korpus, piers
 Sculpture - rzezba, pomnik, figura
-Bust(bast) - popiersie, biust
+Bust - popiersie, biust
 Mosaic - mazaika
 Elaborately - misternie, starannie, bogato, kunsztownie
 Skull - czaszka, leb, glowa
@@ -144,29 +144,29 @@ Extract - wydobywac, wyodrebniac
 Oppose - sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
 Figure out -  dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
 Delimiter - ogranicznik, separator
-Align(alain) - dostosowac, wyrownac, dopasowac
+Align - dostosowac, wyrownac, dopasowac
 Realign - przestawiac, przystroic, wyregulowac
 Concatenate - zlaczyc
 Redundant = unnessesery - zbedny, nadmierny, niepotrzebny
 Misaligned Rows - nieprawidlowo wyrownane rzedy
-Merge = connect = combine - polaczyc, laczyc, scalic
-Append = join = attach = include- dolaczyc, dodac
+Merge(connect, combine) - polaczyc, laczyc, scalic
+Append(join, attach, include) - dolaczyc, dodac
 Valid = important - wazny
 Warn - ostrzegac, ostrzec, uprzedzic
 Year of completion - rok zakonczenia
 Duration - czas trwania
-Retain = keep = maintain - zachowywac, przechowywac, zatrzymac
+Retain(keep, maintain) = zachowywac, przechowywac, zatrzymac
 Elapse - uplynsc, minal
 Tenure  = term - kadencja, posade
-Plain  = straight (strejt)- prosty, gladki, jasny, czysty
+Plain  = straight prosty, gladki, jasny, czysty
 Raise - poniesc, wychowac, pozyskac
 Further  -  dalej, kolejny, dodatkowy, nastepnie
 That's not that far - to nie tak daleko
 Jupiter - jowisz
-Obviously(obwesli) - oszywiscie, najwyrazniej
+Obviously - oszywiscie, najwyrazniej
 Obvious - ewidentny, oszywisty, sjasny, widoczny
 Carbon dioxide(daioxaid) - dwutlenek wegla
-Revise  = change- zmienic, skorygowac, poprawic
+Revise(change) = zmienic, skorygowac, poprawic
 Wishlist - lista zyczen, listazakupowa
 Billing - rozliczenie, rachunek
 Cart = wozek sklepowy, woz
@@ -178,7 +178,7 @@ Goods - towar, rzeczy, towary
 Gotta - musze, chce
 Gonna -  zrobic, bedziesz 
 Wanna - chce, chcesz
-High-end - wysokiej klasy
+High_end - wysokiej klasy
 Pricey - drogi
 Daylight robbery - rozboj w bialy dzien
 Pay top dolar - zaplacic najwyzsza cene
@@ -293,5 +293,3 @@ Fry - smazyc
 Nutritous - pozywny, sycacy
 Obesity - otylosc
 Poultry - drob
-
-
