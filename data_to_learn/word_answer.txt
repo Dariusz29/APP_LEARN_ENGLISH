@@ -149,13 +149,16 @@
  zlaczyc
  unnessesery - zbedny, nadmierny, niepotrzebny
  nieprawidlowo wyrownane rzedy
- connect  join  important - wazny
+ polaczyc, laczyc, scalic
+ dolaczyc, dodac
+ important - wazny
  ostrzegac, ostrzec, uprzedzic
  rok zakonczenia
  czas trwania
- keep  uplynsc, minal
+ zachowywac, przechowywac, zatrzymac
+ uplynsc, minal
  term - kadencja, posade
- straight (strejt)- prosty, gladki, jasny, czysty
+ straight prosty, gladki, jasny, czysty
  poniesc, wychowac, pozyskac
   dalej, kolejny, dodatkowy, nastepnie
  to nie tak daleko
@@ -163,7 +166,7 @@
  oszywiscie, najwyrazniej
  ewidentny, oszywisty, sjasny, widoczny
  dwutlenek wegla
- change- zmienic, skorygowac, poprawic
+ zmienic, skorygowac, poprawic
  lista zyczen, listazakupowa
  rozliczenie, rachunek
  wozek sklepowy, woz
@@ -175,7 +178,8 @@
  musze, chce
   zrobic, bedziesz 
  chce, chcesz
-end  drogi
+ wysokiej klasy
+ drogi
  rozboj w bialy dzien
  zaplacic najwyzsza cene
  rozbic bank
@@ -285,8 +289,7 @@ end  drogi
  smazyc
  pozywny, sycacy
  otylosc
- drob
- walka, problem, trudnosc, walczyc, zmagac, szarpac
+ drob walka, problem, trudnosc, walczyc, zmagac, szarpac
  oddychac
  po prostu, tylko, wlasnie, zaledwie, tuz
  przebolec, podejsc, przejechac, pokonac

@@ -95,7 +95,7 @@ receive
 afford 
 doubt 
 actively 
-relatives(relatiws) 
+relatives 
 investigate 
 dimension 
 exceeding 
@@ -124,7 +124,7 @@ arrangement
 permission 
 thinner 
 broadcast 
-naughty (nadi)
+naughty 
 loudly 
 exhibit 
 artefact 
@@ -135,7 +135,7 @@ mount
 alcove 
 torso 
 sculpture 
-bust(bast) 
+bust 
 mosaic 
 elaborately 
 skull 
@@ -144,18 +144,18 @@ extract
 oppose 
 figure out 
 delimiter 
-align(alain) 
+align 
 realign 
 concatenate 
 redundant 
 misaligned rows 
-merge 
-append 
+merge(connect, combine) 
+append(join, attach, include) 
 valid 
 warn 
 year of completion 
 duration 
-retain 
+retain(keep, maintain) 
 elapse 
 tenure  
 plain  
@@ -163,10 +163,10 @@ raise
 further  
 that's not that far 
 jupiter 
-obviously(obwesli) 
+obviously 
 obvious 
 carbon dioxide(daioxaid) 
-revise  
+revise(change) 
 wishlist 
 billing 
 cart 
@@ -178,7 +178,7 @@ goods
 gotta 
 gonna 
 wanna 
-high
+high_end 
 pricey 
 daylight robbery 
 pay top dolar 
