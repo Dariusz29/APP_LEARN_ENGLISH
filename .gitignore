@@ -1,0 +1,3 @@
+# Files which are ignore by GIT
+
+source_data/*.txt
