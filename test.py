@@ -91,6 +91,7 @@ class TEST():
             word = {}
             ans = {}
             check = []
+            sen = []
 
             for i, v in enumerate(an[num_an]):
                 word[i] = v
@@ -115,11 +116,18 @@ class TEST():
                 print("""
                 Your answer is in half right.
                 Next word....""",an[num_an])
+                print(f'Create sentance with {words}')
+                sentence = input("\n...")
+                sen.append(sentence)
+
                 
             else:
                 print("""
                 Bad answer
                 Next word....""",an[num_an])
+                print(f'Create sentance with {words}')
+                sentence = input("\n...")
+                sen.append(sentence)
                 
         print("Test is finish!")
 
