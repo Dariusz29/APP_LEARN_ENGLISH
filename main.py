@@ -8,6 +8,7 @@ sw("w")
 sw("p")
 
 
+
 ans = open("word_answer.txt" , "r") 
    
 eng = open("word_in_eng.txt" , "r")
