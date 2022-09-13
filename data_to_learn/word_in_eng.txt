@@ -390,3 +390,5 @@ retrieve
 revert 
 undo 
 poorly 
+determine  
+trigger 

@@ -78,6 +78,11 @@ class TEST():
             ww = list(ww)
         with open('data_to_learn\\word_answer.txt', 'r') as an:
             an = list(an)
+        
+        word = {}
+        ans = {}
+        check = []
+        sen = []
 
 
         for i in range(0,int(i)):
@@ -88,10 +93,7 @@ class TEST():
             print(num_ww)
             print(num_an)      
         
-            word = {}
-            ans = {}
-            check = []
-            sen = []
+           
 
             for i, v in enumerate(an[num_an]):
                 word[i] = v
@@ -129,6 +131,7 @@ class TEST():
                 sen.append(sentence)
                 
         print("Test is finish!")
+        print(sen)
 
 
 while True:

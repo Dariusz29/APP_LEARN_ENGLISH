@@ -389,3 +389,5 @@
  trun back, return
  cofnac, naprawic
  slabo, zle
+ okreslic, ustalic
+ wywolac, uruchamiac

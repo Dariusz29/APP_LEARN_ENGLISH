@@ -91,33 +91,33 @@ rules()
 #             c = False
 #             break
 # 
-# import random
-# ww = ["qwer", 'asdf', 'zxcvbnm']
-# pp = ["rewq", 'fdsa', 'mnbvcxz']
-# words = random.choice(ww)
-# print(words)
-# num_ww = ww.index(words)
-# num_pp = num_ww
-# print(num_ww, num_pp)
-# ans = input(f'Type translation {words} = ')
+import random
+ww = ["qwer", 'asdf', 'zxcvbnm']
+pp = ["rewq", 'fdsa', 'mnbvcxz']
+words = random.choice(ww)
+print(words)
+num_ww = ww.index(words)
+num_pp = num_ww
+print(num_ww, num_pp)
+ans = input(f'Type translation {words} = ')
 
 
     
-# for i, j in zip(pp[num_pp],ans):
+for i, j in zip(pp[num_pp],ans):
 
-#     if ans == pp[num_pp]:
-#         print("""
-#         Great answer!!!
-#         Next phase....""")
+    if ans == pp[num_pp]:
+        print("""
+        Great answer!!!
+        Next phase....""")
 
-#     elif i == j: 
-#         print("""
-#         Your answer is in half right.
-#         Next phase....""")
+    elif i == j: 
+        print("""
+        Your answer is in half right.
+        Next phase....""")
         
-#     else:
-#         print("""
-#         Bad answer
-#         Next phase....""")
+    else:
+        print("""
+        Bad answer
+        Next phase....""")
                 
-#     print("Test is finish!")
+    print("Test is finish!")
