@@ -91,7 +91,14 @@ class TEST():
             num_an = num_ww
             answer = input(f'Type translation {words} = ')    
             print(num_ww)
-            print(num_an)      
+            print(num_an)    
+
+            word = {}
+            ans = {}
+            check = []
+            sen = []  
+            print(an[num_an])
+            print(answer)
         
            
 
@@ -101,13 +108,21 @@ class TEST():
             for i, v in enumerate(answer):
                 ans[i] = v
 
+            
+            ans.pop(0)
+            print(word, ans)
+            
+
             for i in range(len(ans.keys())):
 
-                if word[i] == ans[i]:
+                if word[i] == ans[i+1]:
                     check.append(1)
-
+                    print(check)
+                    
                 else:
+
                     check.append(0)
+                    print(check)
 
             if sum(check) == len(word.keys()):
                 print("""
