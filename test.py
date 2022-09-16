@@ -108,14 +108,14 @@ class TEST():
             for i, v in enumerate(answer):
                 ans[i] = v
 
-            
-            ans.pop(0)
+            print(ans)
+            # ans.pop(0)
             print(word, ans)
             
 
             for i in range(len(ans.keys())):
 
-                if word[i] == ans[i+1]:
+                if word[i] == ans[i]:
                     check.append(1)
                     print(check)
                     

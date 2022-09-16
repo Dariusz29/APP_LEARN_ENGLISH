@@ -17,23 +17,23 @@ def store_word(resp):
     
         for w in word_sourse:
 
-            if "=" in w:
-                data = w.split('=')
+            if " = " in w:
+                data = w.split(' = ')
                 word_eng.append(data[0].lower())
                 word_ans.append(data[1].lower())
-            elif "-" in w:
-                data = w.split('-')
+            elif " - " in w:
+                data = w.split(' - ')
                 word_eng.append(data[0].lower())
                 word_ans.append(data[1].lower())
 
         for w in word_sourse_:
 
-            if "=" in w:
-                data = w.split('=')
+            if " = " in w:
+                data = w.split(' = ')
                 word_eng.append(data[0].lower())
                 word_ans.append(data[1].lower())
-            elif "-" in w:
-                data = w.split('-')
+            elif " - " in w:
+                data = w.split(' - ')
                 word_eng.append(data[0].lower())
                 word_ans.append(data[1].lower())
     
@@ -52,12 +52,12 @@ def store_word(resp):
       
         for w in phases_sourse:
             
-            if "=" in w :
-                data = w.split('=')
+            if " = " in w :
+                data = w.split(' = ')
                 phases_eng.append(data[0].lower())
                 phases_ans.append(data[1].lower())
-            elif "-" in w :
-                data = w.split('-')
+            elif " - " in w :
+                data = w.split(' - ')
                 phases_eng.append(data[0].lower())
                 phases_ans.append(data[1].lower())
     
