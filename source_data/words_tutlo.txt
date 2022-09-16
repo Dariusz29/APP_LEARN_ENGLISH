@@ -142,7 +142,7 @@ Skull - czaszka, leb, glowa
 Rival - rywal
 Extract - wydobywac, wyodrebniac
 Oppose - sprzeciwic sie, sprzeciwiac sie ,przeciwdzialac 
-Figure out -  dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
+Figure out - dowiedziec siw, wymyslic ustalic, zrozumiec, znalezc
 Delimiter - ogranicznik, separator
 Align - dostosowac, wyrownac, dopasowac
 Realign - przestawiac, przystroic, wyregulowac
@@ -157,10 +157,10 @@ Year of completion - rok zakonczenia
 Duration - czas trwania
 Retain(keep, maintain) = zachowywac, przechowywac, zatrzymac
 Elapse - uplynsc, minal
-Tenure  = term - kadencja, posade
-Plain  = straight prosty, gladki, jasny, czysty
+Tenure = term - kadencja, posade
+Plain = straight prosty, gladki, jasny, czysty
 Raise - poniesc, wychowac, pozyskac
-Further  -  dalej, kolejny, dodatkowy, nastepnie
+Further - dalej, kolejny, dodatkowy, nastepnie
 That's not that far - to nie tak daleko
 Jupiter - jowisz
 Obviously - oszywiscie, najwyrazniej
@@ -176,7 +176,7 @@ Shipment - przesylka, wysylka, dostawa, transport
 In stock - na magazynie, na stanie
 Goods - towar, rzeczy, towary
 Gotta - musze, chce
-Gonna -  zrobic, bedziesz 
+Gonna - zrobic, bedziesz 
 Wanna - chce, chcesz
 High_end - wysokiej klasy
 Pricey - drogi
@@ -195,7 +195,7 @@ Stretch - rozciagnac, rozprostowac
 Denote - oznaczyc, okreslenia
 Consider - rozwazyc, uwazac, uznac
 Assign - przypisac
-Assume -  zakladac, przyjsc, ponosic
+Assume - zakladac, przyjsc, ponosic
 Sample - probka, sample, probkowac, skosztowac
 Circular - okragly, kolowy, kolisty
 Introduce - wprowadzic, przedstawic, przedsatwic
@@ -253,7 +253,7 @@ Advance - zaliczka, rozwijac, awansowac
 Estimate - oszacowac, szacowac, ocenic
 Intersect - przecinac sie, przecinac
 Lnequality - nierownosc
-Uneven  - nierowno
+Uneven - nierowno
 Implies - oznacza
 Imply - oznaczac, sugerowac, implikowac, wskazywac
 Accessible- dostepny
@@ -277,8 +277,8 @@ Anticipate - przewidywac, spodziewac, oczekiwac
 Involved - zaangazowany, zwiazany, uszestniczy
 Appearance - wyglad, pojawienie, wstep
 Appear - pojawic sie, wygladac, wystepowac
-Resive -  zmienic, skorygowac
-Hedge  -  zabezpieczyc
+Resive - zmienic, skorygowac
+Hedge - zabezpieczyc
 To admit = wyznac
 shut down = close, turn off
 struggle = fight, problem 
@@ -288,7 +288,7 @@ Noise - odglos dzwiek
 Disturb - zaklocic, przeszkodzic 
 I feed my dog two times a day 
 Bland - mdly
-Dairy product  - nabiac
+Dairy product - nabiac
 Fry - smazyc
 Nutritous - pozywny, sycacy
 Obesity - otylosc
