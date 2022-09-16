@@ -97,10 +97,6 @@ class TEST():
             ans = {}
             check = []
             sen = []  
-            print(an[num_an])
-            print(answer)
-        
-           
 
             for i, v in enumerate(an[num_an]):
                 word[i] = v
@@ -108,11 +104,7 @@ class TEST():
             for i, v in enumerate(answer):
                 ans[i] = v
 
-            print(ans)
-            # ans.pop(0)
-            print(word, ans)
             
-
             for i in range(len(ans.keys())):
 
                 if word[i] == ans[i]:
