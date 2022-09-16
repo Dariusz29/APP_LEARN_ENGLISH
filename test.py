@@ -1,4 +1,5 @@
 #ask user about kind of which you choice 
+from cmath import phase
 from functions.data_word import store_word as sw
 import random
 
@@ -43,29 +44,59 @@ class TEST():
         sw('p')
         with open('data_to_learn\\phases_in_eng.txt', 'r') as pp:
             pp = list(pp)
+        with open('data_to_learn\\phases_answer.txt', 'r') as pa:
+            pa = list(pa)
 
-        for i in range(i):
-            words = random.choice(pp)
-            num = pp.index(words)
-            ans = input(f'Type translation {words} = ')
-            word = (word == True for ans in words if words[:len(words)//2] == ans[len(ans)//2:])
+        phas = {}
+        ans = {}
+        check = []
+        senp = [] 
 
-            if ans == num:
+        for i in range(0,int(i)):
+            phases = random.choice(pp)
+            num_pp = pp.index(phases)
+            num_an = num_pp
+            answer = input(f'Type translation {phases} = ')    
+                
+            
+            for i, v in enumerate(pa[num_an]):
+                phas[i] = v
+
+            for i, v in enumerate(answer):
+                ans[i] = v
+
+            for i in range(len(ans.keys())):
+
+                if phas[i] == ans[i]:
+                    check.append(1)
+                     
+                else:
+
+                    check.append(0)                   
+
+            if sum(check) == len(phas.keys()):
                 print("""
                 Great answer!!!
-                Next phase....""")
+                Next word....""", pa[num_an])
 
-            elif word:
+            elif sum(check) >= len(phas.keys())//2:
                 print("""
                 Your answer is in half right.
-                Next phase....""")
-                
-            elif ans != num:
+                Next word....""",pa[num_an])
+                print(f'Create sentance with {phases}')
+                sentence = input("\n...")
+                senp.append(sentence)
+    
+            else:
                 print("""
-            Bad answer
-                Next phase....""")
+                Bad answer
+                Next word....""",pa[num_an])
+                print(f'Create sentance with {phases}')
+                sentence = input("\n...")
+                senp.append(sentence)
                 
         print("Test is finish!")
+        print(senp)
 
 
 # feature to exam with words
@@ -93,11 +124,7 @@ class TEST():
             print(num_ww)
             print(num_an)    
 
-            word = {}
-            ans = {}
-            check = []
-            sen = []  
-
+        
             for i, v in enumerate(an[num_an]):
                 word[i] = v
 
