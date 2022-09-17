@@ -1,5 +1,5 @@
 #ask user about kind of which you choice 
-from cmath import phase
+
 from functions.data_word import store_word as sw
 import random
 
@@ -20,7 +20,6 @@ def kind_test():
         4. 20
         5. 25
         """)
-
         test = input('Which are you choice test? ')
         n = input('How much words or phases are you learn in the TEST? ')
 
@@ -46,11 +45,14 @@ class TEST():
             pp = list(pp)
         with open('data_to_learn\\phases_answer.txt', 'r') as pa:
             pa = list(pa)
+        with open('results_history.txt', 'r') as rh:
+            rh = rh
 
         phas = {}
         ans = {}
         check = []
         senp = [] 
+        save_score = {}
 
         for i in range(0,int(i)):
             phases = random.choice(pp)
