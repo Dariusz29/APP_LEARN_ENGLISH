@@ -149,3 +149,4 @@ leave = go away
 very much = in a big way 
 long time from now = way off
 it was a blowout = to był cios
+the act of saying = akt powiedzenia
