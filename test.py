@@ -1,8 +1,9 @@
 #ask user about kind of which you choice 
 
+from unittest import result
 from functions.data_word import store_word as sw
 import random
-
+from functions.save_results import save_results as sr
 
 
 # Main of exam
@@ -45,14 +46,12 @@ class TEST():
             pp = list(pp)
         with open('data_to_learn\\phases_answer.txt', 'r') as pa:
             pa = list(pa)
-        with open('results_history.txt', 'r') as rh:
-            rh = rh
-
+        
         phas = {}
         ans = {}
         check = []
         senp = [] 
-        save_score = {}
+        
 
         for i in range(0,int(i)):
             phases = random.choice(pp)
@@ -112,6 +111,8 @@ class TEST():
         with open('data_to_learn\\word_answer.txt', 'r') as an:
             an = list(an)
         
+        
+        
         word = {}
         ans = {}
         check = []
@@ -119,12 +120,17 @@ class TEST():
 
 
         for i in range(0,int(i)):
+            result = ''
             words = random.choice(ww)
             num_ww = ww.index(words)
             num_an = num_ww
             answer = input(f'Type translation {words} = ')    
             print(num_ww)
-            print(num_an)    
+            print(num_an)   
+
+            
+
+            
 
         
             for i, v in enumerate(an[num_an]):
@@ -149,6 +155,8 @@ class TEST():
                 print("""
                 Great answer!!!
                 Next word....""", an[num_an])
+                result = "good"
+                
 
             elif sum(check) >= len(word.keys())//2:
                 print("""
@@ -157,6 +165,7 @@ class TEST():
                 print(f'Create sentance with {words}')
                 sentence = input("\n...")
                 sen.append(sentence)
+                result = 'half good'
     
             else:
                 print("""
@@ -165,6 +174,13 @@ class TEST():
                 print(f'Create sentance with {words}')
                 sentence = input("\n...")
                 sen.append(sentence)
+            sr(result) 
+
+        
+
+            
+        
+            
                 
         print("Test is finish!")
         print(sen)
