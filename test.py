@@ -38,6 +38,10 @@ def kind_test():
 # feature to take exam with phases
 class TEST():
 
+    def __init__(self,i):
+        self.i = i
+        
+
     
     def start_test_phase(i):
 
