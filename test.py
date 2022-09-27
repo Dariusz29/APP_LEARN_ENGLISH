@@ -38,12 +38,12 @@ def kind_test():
 # feature to take exam with phases
 class TEST():
 
-    def __init__(self,i):
-        self.i = i
+    def __init__(self,j):
+        self.j = j
         
 
     
-    def start_test_phase(i):
+    def start_test_phase(j):
 
         sw('p')
         with open('data_to_learn\\phases_in_eng.txt', 'r') as pp:
@@ -57,7 +57,7 @@ class TEST():
         senp = [] 
         
 
-        for i in range(0,int(i)):
+        for i in range(0,int(j)):
             phases = random.choice(pp)
             num_pp = pp.index(phases)
             num_an = num_pp
@@ -107,7 +107,7 @@ class TEST():
 # feature to exam with words
 # wrong examine translations
 # in data are lot of wrong connecting word with answer
-    def start_test_word(i):
+    def start_test_word(j):
 
         sw('w')
         with open('data_to_learn\\word_in_eng.txt', 'r') as ww:
@@ -123,7 +123,7 @@ class TEST():
         sen = []
 
 
-        for i in range(0,int(i)):
+        for i in range(0,int(j)):
             result = ''
             words = random.choice(ww)
             num_ww = ww.index(words)
@@ -178,7 +178,11 @@ class TEST():
                 print(f'Create sentance with {words}')
                 sentence = input("\n...")
                 sen.append(sentence)
-            sr(result) 
+
+            if i == int(j):
+                statuss = True 
+
+            sr(result,status = statuss) 
 
         
 

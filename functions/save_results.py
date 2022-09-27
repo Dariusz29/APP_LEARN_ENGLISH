@@ -4,7 +4,7 @@
 
 
 
-def save_results(result_):
+def save_results(result_,status=False):
 
     with open('results_history.txt', 'r') as rh:
         results = list(rh)
@@ -23,9 +23,14 @@ def save_results(result_):
         print(len(results))
         score = 0
         results.append(score)
+    
+    if status == True:
 
-    for w in results:
-        rh.write(w)
-        rh.write('\n')
+        for w in results:
+            rh.write(str(w))
+            rh.close()
+
+    
+
 
     
