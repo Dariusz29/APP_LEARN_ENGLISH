@@ -115,12 +115,12 @@ class TEST():
         with open('data_to_learn\\word_answer.txt', 'r') as an:
             an = list(an)
         
-        
-        
+                
         word = {}
         ans = {}
         check = []
         sen = []
+        n = 0
 
 
         for i in range(0,int(j)):
@@ -132,11 +132,9 @@ class TEST():
             print(num_ww)
             print(num_an)   
 
-            
+            n =+ i
 
             
-
-        
             for i, v in enumerate(an[num_an]):
                 word[i] = v
 
@@ -148,12 +146,12 @@ class TEST():
 
                 if word[i] == ans[i]:
                     check.append(1)
-                    print(check)
+                    
                     
                 else:
 
                     check.append(0)
-                    print(check)
+                    
 
             if sum(check) == len(word.keys()):
                 print("""
@@ -178,12 +176,16 @@ class TEST():
                 print(f'Create sentance with {words}')
                 sentence = input("\n...")
                 sen.append(sentence)
+        
 
-            if i == int(j):
-                statuss = True 
+            if n == int(j)-1: 
+                sr(result,status=True)
+                print('ass')
 
-            sr(result,status = statuss) 
-
+            else:
+                sr(result,status=False) 
+                print('dupa')
+            
         
 
             
