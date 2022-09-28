@@ -1,34 +1,36 @@
 #saving history scores about my learn of vocabulary
+import time
 
 
 
+def save_results(result_,status):
 
-
-def save_results(result_,status=False):
-
-    with open('results_history.txt', 'r') as rh:
-        results = list(rh)
-
+    file = open('results_history.txt', 'a')
+    t = time.asctime()
+         
     if result_ == 'good':
-        print(len(results))
-        score  = 1
-        results.append(score)
+        
+        score  = '1'
+        file.write(score)
+        file.write('\n')
     
     elif result_ == 'half good':
-        print(len(results))
-        score = 0.5
-        results.append(score)
+        
+        score = '0.5'
+        file.write(score)
+        file.write('\n')
 
     else:
-        print(len(results))
-        score = 0
-        results.append(score)
+        
+        score = '0'
+        file.write(score)
+        file.write('\n')
     
     if status == True:
 
-        for w in results:
-            rh.write(str(w))
-            rh.close()
+        file.write(f'End a test!!!, {t}')
+        file.close()
+        
 
     
 
