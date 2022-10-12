@@ -67,17 +67,17 @@ Unless - chyba, ze..., jezeli nie
 Properly - odpowiednio, prawidlowo
 Wage - wynagrodzenie, placa
 Related - powiazany
-Camel(kanol) - wielblad 
+Camel - wielblad 
 Spit - pluc
 Resentful - urazony, obrazony, odrzucony
 Harsh - surowy, ostry, szorstki, nie mily
 Quantity - liczba, ilosc, sztuk, naklad
 Tick - kleszcz, tykac, znaczenie
-Radius(rejdious) - zasieg, promien, obszar
+Radius - zasieg, promien, obszar
 Multiline annotation - adnotacja wieloliniowa
 Accompany - towarzyszyc, oprowadzic, dolaczyc
 Properties - wlasciwosci
-Abbreviation = shortcut - skrot
+Abbreviation = shortcut
 Refer - odnosci sie, dolaczyc, odniesc sie
 Residential - mieszkaniowy
 Steady - staly, stabilny, ciagly
@@ -85,7 +85,7 @@ Tight - cisany, napiety, obcisly, szczelny
 Cumbersome - uciazliwy, klopotliwy, nieporeczy
 Annual cost - roczny koszt
 Lend - pozyczac, uzyczac
-Prove(Pruw) - udowadnic, okazac, dowiesc
+Prove - udowadnic, okazac, dowiesc
 Wisely - madrze, rozsadnie, roztropnie
 Stick to - trzymac sie, postrzegac
 Genre - gatunek
@@ -165,7 +165,7 @@ That's not that far - to nie tak daleko
 Jupiter - jowisz
 Obviously - oszywiscie, najwyrazniej
 Obvious - ewidentny, oszywisty, sjasny, widoczny
-Carbon dioxide(daioxaid) - dwutlenek wegla
+Carbon dioxide - dwutlenek wegla
 Revise(change) = zmienic, skorygowac, poprawic
 Wishlist - lista zyczen, listazakupowa
 Billing - rozliczenie, rachunek

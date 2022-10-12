@@ -77,7 +77,7 @@ zasieg, promien, obszar
 adnotacja wieloliniowa
 towarzyszyc, oprowadzic, dolaczyc
 wlasciwosci
-shortcut - skrot
+shortcut
 odnosci sie, dolaczyc, odniesc sie
 mieszkaniowy
 staly, stabilny, ciagly
@@ -342,7 +342,7 @@ dostawa
 roznorodnosc, urozmaicenie
 licznik, zwalczac, przeciwdzialac
 przeciecie
-flexiable(wszechstronne, uniwersalne)
+flexiable
 odpad, marnowac, trwnoic
 makes our planet dirty
 bronic, obronic, chronic

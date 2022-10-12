@@ -67,13 +67,13 @@ unless
 properly
 wage
 related
-camel(kanol)
+camel
 spit
 resentful
 harsh
 quantity
 tick
-radius(rejdious)
+radius
 multiline annotation
 accompany
 properties
@@ -85,7 +85,7 @@ tight
 cumbersome
 annual cost
 lend
-prove(pruw)
+prove
 wisely
 stick to
 genre
@@ -165,7 +165,7 @@ that's not that far
 jupiter
 obviously
 obvious
-carbon dioxide(daioxaid)
+carbon dioxide
 revise(change)
 wishlist
 billing
